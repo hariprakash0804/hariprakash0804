@@ -6,8 +6,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:06B6D4,50:8B5CF6,75:D946EF,100:06B6D4&height=220&section=header&text=HARIPRAKASH%20A&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=%F0%9F%9A%80%20Full-Stack%20Developer%20%7C%20AI-Agent%20Builder%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=17&descColor=E0E0E0" width="100%"/>
 
-<!-- TYPING EFFECT -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%E2%9A%A1+Building+at+the+edge+of+what+is+possible;%F0%9F%A7%A0+AI-Agent+Assisted+Development+Advocate;%F0%9F%8C%8D+World+Record+Holder+%7C+3x+Research+Presenter;%F0%9F%8E%93+B.Tech+IT+%E2%80%94+Class+of+2026" alt="Typing SVG" /></a>
+<!-- ✨ ENHANCED TYPING EFFECT — more lines, bigger canvas -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=720&height=50&lines=%E2%9A%A1+Building+at+the+edge+of+what+is+possible...;%F0%9F%A7%A0+AI-Agent+Assisted+Development+Advocate;%F0%9F%8C%8D+World+Record+Holder+%7C+3x+Research+Presenter;%F0%9F%8E%93+B.Tech+IT+%E2%80%94+Class+of+2026+%7C+Salem%2C+Tamil+Nadu;%F0%9F%94%A5+Full-Stack+%7C+AI%2FML+%7C+IoT+Engineer;%F0%9F%8C%9F+Dreaming+Big+%E2%80%94+Shipping+Bigger;%F0%9F%8E%B5+Code+by+Day+%7C+Tamil+Beats+by+Night;%F0%9F%A4%96+I+build+AI+agents+%E2%80%94+and+fact-check+them+too" alt="Typing SVG" />
+</a>
 
 <br/>
 
@@ -16,6 +18,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/hariprakash0804?logo=github&style=for-the-badge&color=06B6D4&labelColor=0D1117)](https://github.com/hariprakash0804?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/hariprakash0804?logo=github&style=for-the-badge&color=D946EF&labelColor=0D1117)](https://github.com/hariprakash0804?tab=repositories)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-plum-38.vercel.app)
+
+<!-- 🆕 OPEN TO WORK ANIMATED BADGE -->
+<br/>
+![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--Stack%20%7C%20AI%20Engineer-brightgreen?style=for-the-badge&labelColor=0D1117)
+![Made in India](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3%20Made%20in-Tamil%20Nadu%2C%20India-FF9933?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -37,10 +44,10 @@ education:
   minor: Sensor Technologies & IoT
   institution: K.S.R. Institute for Engineering & Technology
   graduation: 2026
-  
+
 career_objective: >
-  To be a motivated and detail-oriented engineer 
-  with a strong foundation in all aspects of a 
+  To be a motivated and detail-oriented engineer
+  with a strong foundation in all aspects of a
   problem and to find a better solution.
 
 languages_spoken: Tamil | English | Kannada (Native)
@@ -50,7 +57,7 @@ interests: IoT | Cybersecurity | AI/ML | Full Stack Development
 currently_building:
   - Topic Intelligence Platform (n8n automation)
   - AI Coding Agent Verification Framework
-  
+
 open_to: Full-Stack / AI-Agent-Assisted Developer roles
 ```
 
@@ -117,8 +124,6 @@ open_to: Full-Stack / AI-Agent-Assisted Developer roles
 <tr>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/--%23000?style=for-the-badge&logo=react&logoColor=61DAFB" width="60" height="40" />
-<br/>
 **🎨 Frontend**
 <br/>
 <sub>React · Next.js · TypeScript<br/>Tailwind · Framer Motion · GSAP</sub>
@@ -126,8 +131,6 @@ open_to: Full-Stack / AI-Agent-Assisted Developer roles
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/--%23000?style=for-the-badge&logo=nodedotjs&logoColor=339933" width="60" height="40" />
-<br/>
 **⚙️ Backend**
 <br/>
 <sub>Node.js · Express · Python<br/>FastAPI · tRPC · Socket.io</sub>
@@ -135,8 +138,6 @@ open_to: Full-Stack / AI-Agent-Assisted Developer roles
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/--%23000?style=for-the-badge&logo=openai&logoColor=white" width="60" height="40" />
-<br/>
 **🧠 AI / ML**
 <br/>
 <sub>RAG Pipelines · FAISS · LLMs<br/>Claude · HuggingFace · n8n</sub>
@@ -144,8 +145,6 @@ open_to: Full-Stack / AI-Agent-Assisted Developer roles
 </td>
 <td align="center" width="25%">
 
-<img src="https://img.shields.io/badge/--%23000?style=for-the-badge&logo=arduino&logoColor=00979D" width="60" height="40" />
-<br/>
 **🔌 IoT & Embedded**
 <br/>
 <sub>ESP32 · Arduino · KiCad<br/>Sensor Integration · Embedded C</sub>
@@ -220,6 +219,8 @@ open_to: Full-Stack / AI-Agent-Assisted Developer roles
 ![Claude](https://img.shields.io/badge/Claude_LLM-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔌 IoT & Embedded
 
@@ -238,6 +239,41 @@ open_to: Full-Stack / AI-Agent-Assisted Developer roles
 
 ![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-06B6D4?style=for-the-badge&logo=terminal&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🆕 SKILL PROFICIENCY — animated progress bars via shields.io -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## ⚡ &nbsp;Skill Proficiency
+
+<div align="center">
+
+<table>
+<tr><td><b>TypeScript / JavaScript</b></td><td>
+<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━░░░-0D1117?style=flat-square&label=95%25&labelColor=06B6D4" />
+</td></tr>
+<tr><td><b>React / Next.js</b></td><td>
+<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━░░░░░░-0D1117?style=flat-square&label=90%25&labelColor=8B5CF6" />
+</td></tr>
+<tr><td><b>Python / FastAPI</b></td><td>
+<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━░░░░░░░░░-0D1117?style=flat-square&label=82%25&labelColor=3B82F6" />
+</td></tr>
+<tr><td><b>AI / RAG Pipelines</b></td><td>
+<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━░░░░░░░░░-0D1117?style=flat-square&label=80%25&labelColor=D946EF" />
+</td></tr>
+<tr><td><b>n8n Automation</b></td><td>
+<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━░░░░░░░░░░░-0D1117?style=flat-square&label=78%25&labelColor=EA4B71" />
+</td></tr>
+<tr><td><b>IoT / Embedded Systems</b></td><td>
+<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━░░░░░░░░░░░░░-0D1117?style=flat-square&label=72%25&labelColor=10B981" />
+</td></tr>
+</table>
 
 </div>
 
@@ -362,11 +398,11 @@ User Query (Any Indian Language)  →  Multilingual NLP  →  FAISS Vector Searc
 ```
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-8B5CF6?style=flat-square&logo=openai&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 </td>
 </tr>
@@ -488,6 +524,34 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🆕 2026 LEARNING ROADMAP -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🧭 &nbsp;2026 Learning Roadmap
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Q1 ✅  LangGraph + LangSmith  |  Google Cloud & Dataflow
+  Q2 ✅  n8n Advanced Pipelines |  React Native Monorepos
+  Q3 🔄  System Design (10 LPA+ Prep)  |  Apache Beam
+  Q4 🎯  Cloud Certifications   |  Production AI Agents
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+![System Design](https://img.shields.io/badge/Learning-System_Design-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Learning-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/Learning-Apache_Beam-FF6B35?style=for-the-badge&logo=apache&logoColor=white)
+![DSA](https://img.shields.io/badge/Learning-DSA_for_Interviews-10B981?style=for-the-badge&logo=leetcode&logoColor=white)
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 💡 STRENGTHS -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -511,28 +575,54 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS -->
+<!-- 🆕 GITHUB METRICS — metrics.lecoq.io (no setup required)               -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🔭 &nbsp;GitHub Metrics
+
+<div align="center">
+
+<img src="https://metrics.lecoq.io/hariprakash0804?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata&config.twemoji=true&config.display=large" width="70%" alt="GitHub Metrics"/>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS — FIXED with cache_seconds=86400                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<!-- Stats & Languages side by side -->
+<!-- Stats & Languages — fixed with cache_seconds to reduce rate-limit failures -->
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=hariprakash0804&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprakash0804&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=10" width="42%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=hariprakash0804&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=86400&rank_icon=github" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprakash0804&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8&cache_seconds=86400" width="35%" alt="Top Languages" />
 </p>
 
 <br/>
 
-<!-- Streak -->
+<!-- Streak — already working, keeping as-is -->
 <img src="https://streak-stats.demolab.com/?user=hariprakash0804&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=D946EF&currStreakLabel=06B6D4&sideNums=C9D1D9&sideLabels=8B5CF6&dates=565F89" width="70%" alt="GitHub Streak" />
 
 <br/><br/>
 
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=hariprakash0804&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophies"/>
+<!-- 🆕 TROPHIES — FIXED: column=4 + margin params prevent overflow/breakage -->
+<img src="https://github-profile-trophy.vercel.app/?username=hariprakash0804&theme=discord&no-frame=true&no-bg=true&column=4&row=2&margin-w=15&margin-h=10" width="80%" alt="Trophies"/>
+
+<br/><br/>
+
+<!-- 🆕 3D CONTRIBUTION GRID — generated via GitHub Actions (see workflow below) -->
+<!-- To enable: add .github/workflows/3d-contrib.yml to your repo             -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/profile-3d-contrib/profile-south-season-animate.svg" />
+  <img alt="3D Contribution Grid" src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
+</picture>
 
 <br/><br/>
 
@@ -559,7 +649,7 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📈 DETAILED GITHUB METRICS -->
+<!-- 📈 DETAILED GITHUB METRICS — FIXED layout -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 📈 &nbsp;Contribution Insights
@@ -569,26 +659,19 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 <table>
 <tr>
 <td align="center">
-
-<!-- GitHub Profile Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariprakash0804&theme=radical" width="95%" alt="Profile Details"/>
-
 </td>
 </tr>
 <tr>
 <td>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hariprakash0804&theme=radical" width="49%" alt="Repos per Language"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hariprakash0804&theme=radical" width="49%" alt="Most Commit Language"/>
-
 </td>
 </tr>
 <tr>
 <td>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hariprakash0804&theme=radical" width="49%" alt="Stats"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hariprakash0804&theme=radical&utcOffset=5.5" width="49%" alt="Productive Time"/>
-
 </td>
 </tr>
 </table>
@@ -673,11 +756,15 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 </tr>
 <tr>
 <td>🎵</td>
-<td>I code best while <b>listening to music</b></td>
+<td>I code best while <b>listening to Tamil film music</b></td>
 </tr>
 <tr>
 <td>📚</td>
 <td>I believe in <b>learning something new every single day</b></td>
+</tr>
+<tr>
+<td>🤖</td>
+<td>I once caught an AI agent <b>lying about its own file edits</b></td>
 </tr>
 </table>
 
@@ -688,21 +775,19 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 
 <br/><br/>
 
-<!-- Joke Card -->
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117&qColor=8B5CF6&aColor=06B6D4" alt="Jokes Card" width="60%" />
+<!-- 🆕 ANIMATED OUTRO TYPING — enhanced with more lines -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=550&height=45&lines=Thanks+for+stopping+by!+%F0%9F%99%8F;Let+us+build+something+incredible+%F0%9F%9A%80;Feel+free+to+connect+%F0%9F%92%AC;Vanakkam+%F0%9F%A4%9D+%E2%80%94+from+Tamil+Nadu%2C+India" alt="Outro" />
+</a>
 
 <br/><br/>
 
----
+<!-- 🆕 MULTI-LAYER FOOTER — egg type for extra visual flair -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B5CF6,100:0D1117&height=2&section=footer" width="100%"/>
 
 <br/>
 
-<!-- Outro Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+stopping+by!+%F0%9F%99%8F;Let+us+build+something+incredible+%F0%9F%9A%80;Feel+free+to+connect+%F0%9F%92%AC" alt="Outro" /></a>
-
-<br/><br/>
-
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,25:8B5CF6,50:D946EF,75:8B5CF6,100:06B6D4&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,25:8B5CF6,50:D946EF,75:8B5CF6,100:06B6D4&height=140&section=footer&animation=twinkling&text=Keep%20Building%20%F0%9F%94%A5&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
 
 </div>
