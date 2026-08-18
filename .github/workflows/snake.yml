@@ -27,14 +27,14 @@ jobs:
         with:
           github_user_name: hariprakash0804
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=8B5CF6&color_dots=#0D1117,#0e4429,#006d32,#26a641,#39d353
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=00E5FF&color_dots=#0A1020,#182B4A,#243B73,#5B4BC4,#9D7CFF
       
       - name: Generate Snake Animation (Light)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: hariprakash0804
           outputs: |
-            dist/github-snake.svg?palette=github&color_snake=8B5CF6
+            dist/github-snake.svg?palette=github-light&color_snake=7C3AED&color_dots=#F5F7FF,#D9E1FF,#B8C7FF,#8B7CFF,#6B4EFF
       
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
