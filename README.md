@@ -615,11 +615,11 @@ Browser game focused on clean JavaScript, DOM manipulation, state management and
 </div>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hariprakash0804/hariprakash0804](https://github.com/hariprakash0804/hariprakash0804)<br>
-2. ⬆️ Pushed undefined commit(s) to [hariprakash0804/hariprakash0804](https://github.com/hariprakash0804/hariprakash0804)<br>
-3. ⬆️ Pushed undefined commit(s) to [hariprakash0804/hariprakash0804](https://github.com/hariprakash0804/hariprakash0804)<br>
-4. ⬆️ Pushed undefined commit(s) to [hariprakash0804/hariprakash0804](https://github.com/hariprakash0804/hariprakash0804)<br>
-5. ⬆️ Pushed undefined commit(s) to [hariprakash0804/hariprakash0804](https://github.com/hariprakash0804/hariprakash0804)<br>
+1. ⬆️ Pushed undefined commit(s) to [hariprakash0804/Digital-Canteen](https://github.com/hariprakash0804/Digital-Canteen)<br>
+2. ⬆️ Pushed undefined commit(s) to [hariprakash0804/Digital-Canteen](https://github.com/hariprakash0804/Digital-Canteen)<br>
+3. ⬆️ Pushed undefined commit(s) to [hariprakash0804/Digital-Canteen](https://github.com/hariprakash0804/Digital-Canteen)<br>
+4. ⬆️ Pushed undefined commit(s) to [hariprakash0804/Digital-Canteen](https://github.com/hariprakash0804/Digital-Canteen)<br>
+5. ⬆️ Pushed undefined commit(s) to [hariprakash0804/Digital-Canteen](https://github.com/hariprakash0804/Digital-Canteen)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
