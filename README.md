@@ -21,6 +21,7 @@
 
 <!-- 🆕 OPEN TO WORK ANIMATED BADGE -->
 <br/>
+
 ![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--Stack%20%7C%20AI%20Engineer-brightgreen?style=for-the-badge&labelColor=0D1117)
 ![Made in India](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3%20Made%20in-Tamil%20Nadu%2C%20India-FF9933?style=for-the-badge&labelColor=0D1117)
 
@@ -247,41 +248,6 @@ open_to: Full-Stack / AI-Agent-Assisted Developer roles
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🆕 SKILL PROFICIENCY — animated progress bars via shields.io -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## ⚡ &nbsp;Skill Proficiency
-
-<div align="center">
-
-<table>
-<tr><td><b>TypeScript / JavaScript</b></td><td>
-<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━━━━░░░-0D1117?style=flat-square&label=95%25&labelColor=06B6D4" />
-</td></tr>
-<tr><td><b>React / Next.js</b></td><td>
-<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━━━━░░░░░░-0D1117?style=flat-square&label=90%25&labelColor=8B5CF6" />
-</td></tr>
-<tr><td><b>Python / FastAPI</b></td><td>
-<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━░░░░░░░░░-0D1117?style=flat-square&label=82%25&labelColor=3B82F6" />
-</td></tr>
-<tr><td><b>AI / RAG Pipelines</b></td><td>
-<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━━━░░░░░░░░░-0D1117?style=flat-square&label=80%25&labelColor=D946EF" />
-</td></tr>
-<tr><td><b>n8n Automation</b></td><td>
-<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━━━░░░░░░░░░░░-0D1117?style=flat-square&label=78%25&labelColor=EA4B71" />
-</td></tr>
-<tr><td><b>IoT / Embedded Systems</b></td><td>
-<img src="https://img.shields.io/badge/-━━━━━━━━━━━━━━━━━░░░░░░░░░░░░░-0D1117?style=flat-square&label=72%25&labelColor=10B981" />
-</td></tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 🎓 EDUCATION TIMELINE -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -371,6 +337,20 @@ open_to: Full-Stack / AI-Agent-Assisted Developer roles
 </table>
 
 </div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 🆕 RECENT ACTIVITY — auto-updated via Readme-Workflows/recent-activity      -->
+<!-- Live proof-of-work: refreshed automatically, not a static claim            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## ⚡ &nbsp;Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 <br/>
 
@@ -482,6 +462,7 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 
 <img src="https://img.shields.io/badge/🌍-World%20Record-FFD700?style=for-the-badge&labelColor=0D1117" />
 <br/><br/>
+
 **Asian Book of World Records**
 <br/>
 <sub>TanMillets initiative for<br/>spreading millet awareness</sub>
@@ -491,6 +472,7 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 
 <img src="https://img.shields.io/badge/🏅-Team%20Lead-C0C0C0?style=for-the-badge&labelColor=0D1117" />
 <br/><br/>
+
 **Smart India Hackathon**
 <br/>
 <sub>Led team to build AI-powered<br/>agriculture solution</sub>
@@ -500,6 +482,7 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 
 <img src="https://img.shields.io/badge/📄-3x%20Research-CD7F32?style=for-the-badge&labelColor=0D1117" />
 <br/><br/>
+
 **Research Presenter**
 <br/>
 <sub>Papers at Kalasalingam, KIT<br/>& KSR College of Engineering</sub>
@@ -509,6 +492,7 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 
 <img src="https://img.shields.io/badge/🗣️-President-8B5CF6?style=for-the-badge&labelColor=0D1117" />
 <br/><br/>
+
 **Kamban Tamil Mandram**
 <br/>
 <sub>Led cultural and literary<br/>activities promoting Tamil</sub>
@@ -552,45 +536,6 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 💡 STRENGTHS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 💡 &nbsp;Strengths & Attributes
-
-<div align="center">
-
-![Adaptability](https://img.shields.io/badge/🎯_Adaptability-8B5CF6?style=for-the-badge&labelColor=0D1117)
-![Self-driven](https://img.shields.io/badge/🚀_Self--driven-06B6D4?style=for-the-badge&labelColor=0D1117)
-![Goal Oriented](https://img.shields.io/badge/🏹_Goal_Oriented-D946EF?style=for-the-badge&labelColor=0D1117)
-![Quick Learner](https://img.shields.io/badge/⚡_Quick_Learner-F59E0B?style=for-the-badge&labelColor=0D1117)
-![Leadership](https://img.shields.io/badge/👑_Leadership-EF4444?style=for-the-badge&labelColor=0D1117)
-![Communication](https://img.shields.io/badge/💬_Communication-10B981?style=for-the-badge&labelColor=0D1117)
-![Problem Solving](https://img.shields.io/badge/🧩_Problem_Solving-3B82F6?style=for-the-badge&labelColor=0D1117)
-![Team Work](https://img.shields.io/badge/🤝_Team_Collaboration-F97316?style=for-the-badge&labelColor=0D1117)
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🆕 GITHUB METRICS — metrics.lecoq.io (no setup required)               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🔭 &nbsp;GitHub Metrics
-
-<div align="center">
-
-<img src="https://metrics.lecoq.io/hariprakash0804?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&config.timezone=Asia%2FKolkata&config.twemoji=true&config.display=large" width="70%" alt="GitHub Metrics"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!-- 📊 GITHUB STATS — FIXED with cache_seconds=86400                        -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -598,10 +543,12 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 
 <div align="center">
 
-<!-- Stats & Languages — fixed with cache_seconds to reduce rate-limit failures -->
+<!-- Stats & Languages — served from a committed SVG (see .github/workflows/update-stats-svg.yml) -->
+<!-- rather than hit the shared github-readme-stats.vercel.app endpoint live, which is         -->
+<!-- frequently rate-limited across the thousands of profiles that use it.                     -->
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=hariprakash0804&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=86400&rank_icon=github" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprakash0804&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8&cache_seconds=86400" width="35%" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/stats-cards/github-stats.svg" width="49%" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/stats-cards/top-langs.svg" width="35%" alt="Top Languages" />
 </p>
 
 <br/>
@@ -611,18 +558,10 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 
 <br/><br/>
 
-<!-- 🆕 TROPHIES — FIXED: column=4 + margin params prevent overflow/breakage -->
-<img src="https://github-profile-trophy.vercel.app/?username=hariprakash0804&theme=discord&no-frame=true&no-bg=true&column=4&row=2&margin-w=15&margin-h=10" width="80%" alt="Trophies"/>
-
-<br/><br/>
-
-<!-- 🆕 3D CONTRIBUTION GRID — generated via GitHub Actions (see workflow below) -->
-<!-- To enable: add .github/workflows/3d-contrib.yml to your repo             -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/profile-3d-contrib/profile-south-season-animate.svg" />
-  <img alt="3D Contribution Grid" src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" />
-</picture>
+<!-- 🆕 3D CONTRIBUTION GRID — generated via .github/workflows/3d-contrib.yml    -->
+<!-- settings.json has a custom "type" with no fileName, so the action        -->
+<!-- outputs a single file: profile-3d-contrib/profile-customize.svg          -->
+<img alt="3D Contribution Grid" src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/profile-3d-contrib/profile-customize.svg?raw=true" width="95%" />
 
 <br/><br/>
 
@@ -641,40 +580,6 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/output/github-snake-dark.svg" width="100%" />
 </picture>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📈 DETAILED GITHUB METRICS — FIXED layout -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📈 &nbsp;Contribution Insights
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hariprakash0804&theme=radical" width="95%" alt="Profile Details"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hariprakash0804&theme=radical" width="49%" alt="Repos per Language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hariprakash0804&theme=radical" width="49%" alt="Most Commit Language"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hariprakash0804&theme=radical" width="49%" alt="Stats"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hariprakash0804&theme=radical&utcOffset=5.5" width="49%" alt="Productive Time"/>
-</td>
-</tr>
-</table>
 
 </div>
 
@@ -769,11 +674,6 @@ Interactive browser-based game with **core JS concepts** — game logic, DOM man
 </table>
 
 <br/>
-
-<!-- Random Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="70%"/>
-
-<br/><br/>
 
 <!-- 🆕 ANIMATED OUTRO TYPING — enhanced with more lines -->
 <a href="https://git.io/typing-svg">
