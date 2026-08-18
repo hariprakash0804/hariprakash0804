@@ -20,15 +20,37 @@
 
 </div>
 
----
+<!-- ═══════════════════════════════════ NAVIGATION ═══════════════════════════════════ -->
 
 <div align="center">
 
-[`01` IDENTITY](#-01--identity-matrix)　[`02` STACK](#-02--command-center)　[`03` BUILDS](#-03--active-builds)　[`04` WINS](#-07--research--leadership--wins)　[`05` TELEMETRY](#-10--github-telemetry)
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  ◈ NAVIGATION MATRIX                                                          ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+[`01` IDENTITY](#-identity-matrix)　·　[`02` COMMAND CENTER](#-command-center)　·　[`03` CAPABILITIES](#-core-capabilities)　·　[`05` BUILDS](#-active-builds)　·　[`06` PROJECTS](#-featured-projects)
+
+[`07` WINS](#-research--leadership--wins)　·　[`08` EDUCATION](#-education-timeline)　·　[`09` MISSION](#-mission-control--2026)　·　[`10` TELEMETRY](#-github-telemetry)　·　[`14` CONNECT](#-connect)
 
 </div>
 
-## ◉ `01` — Identity Matrix
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
+
+<!-- ═══════════════════════════════════ IDENTITY ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-header-identity.svg" width="100%" alt="Identity Matrix section header" />
+</div>
+
+<br/>
+
+## ◈ Identity Matrix
 
 <table>
 <tr>
@@ -65,21 +87,24 @@ current_builds:
 ### `CURRENT_SIGNAL`
 
 ```text
-┌─────────────────────────┐
-│  SYSTEM       ONLINE    │
-│  MODE         SHIP      │
-│  DOMAIN       AI / FS   │
-│  HARDWARE     IoT       │
-│  CLOUD        ACTIVE    │
-│  LEARNING     CONTINUOUS│
-└─────────────────────────┘
+┌─────────────────────────────┐
+│  ◆ SYSTEM STATUS            │
+│  ───────────────────────    │
+│  SYSTEM       ● ONLINE      │
+│  MODE         SHIP           │
+│  DOMAIN       AI / FS        │
+│  HARDWARE     IoT            │
+│  CLOUD        ACTIVE         │
+│  LEARNING     CONTINUOUS     │
+│  UPTIME       99.9%          │
+└─────────────────────────────┘
 ```
 
 <div align="center">
 
-![Focus](https://img.shields.io/badge/FOCUS-AI%20%2B%20SYSTEMS-7C3AED?style=flat-square)
-![Build](https://img.shields.io/badge/BUILD-PRODUCTION-00E5FF?style=flat-square)
-![Learn](https://img.shields.io/badge/LEARN-ALWAYS-22C55E?style=flat-square)
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%2B%20SYSTEMS-7C3AED?style=flat-square&labelColor=050816)
+![Build](https://img.shields.io/badge/BUILD-PRODUCTION-00E5FF?style=flat-square&labelColor=050816)
+![Learn](https://img.shields.io/badge/LEARN-ALWAYS-22C55E?style=flat-square&labelColor=050816)
 
 </div>
 
@@ -87,28 +112,32 @@ current_builds:
 </tr>
 </table>
 
-> **Build useful things. Make them reliable. Then make them beautiful.**
+> **`// BUILD USEFUL THINGS. MAKE THEM RELIABLE. THEN MAKE THEM BEAUTIFUL.`**
 
----
-
-## ◉ `02` — Command Center
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
 
 <div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%"><strong>10+</strong><br/>Projects</td>
-<td align="center" width="20%"><strong>15+</strong><br/>Technologies</td>
-<td align="center" width="20%"><strong>3</strong><br/>Research Presentations</td>
-<td align="center" width="20%"><strong>5+</strong><br/>Awards</td>
-<td align="center" width="20%"><strong>01</strong><br/>World Record</td>
-</tr>
-</table>
-
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
 </div>
 
+<!-- ═══════════════════════════════════ COMMAND CENTER ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-header-stack.svg" width="100%" alt="Command Center section header" />
+</div>
+
+<br/>
+
+## ◈ Command Center
+
+<div align="center">
+  <img src="./assets/stats-card.svg" width="100%" alt="Stats dashboard showing key metrics" />
+</div>
+
+<br/>
+
 <details>
-<summary><b>▣ Open mission profile</b></summary>
+<summary><b>▣ Expand mission profile</b></summary>
 
 <br/>
 
@@ -122,57 +151,46 @@ current_builds:
 
 </details>
 
----
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
 
-## ◉ `03` — Core Capabilities
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
 
-<table>
-<tr>
-<td width="25%" valign="top" align="center">
+<!-- ═══════════════════════════════════ CAPABILITIES ═══════════════════════════════════ -->
 
-### ⚡ FRONTEND
+<div align="center">
+  <img src="./assets/section-header-builds.svg" width="100%" alt="Core Capabilities section header" />
+</div>
 
-React · Next.js · TypeScript  
-Tailwind · Three.js  
-Framer Motion · GSAP
+<br/>
 
-</td>
-<td width="25%" valign="top" align="center">
+## ◈ Core Capabilities
 
-### ⚙️ BACKEND
+<div align="center">
+  <img src="./assets/capabilities-matrix.svg" width="100%" alt="Core capabilities matrix showing Frontend, Backend, AI, and IoT skills" />
+</div>
 
-Node.js · Express  
-Python · FastAPI  
-REST · Socket.io · tRPC
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
 
-</td>
-<td width="25%" valign="top" align="center">
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
 
-### 🧠 AI / AUTOMATION
+<!-- ═══════════════════════════════════ TECHNOLOGY MATRIX ═══════════════════════════════════ -->
 
-RAG · FAISS · LLMs  
-LangChain · LangGraph  
-Groq · n8n · AI Agents
+<div align="center">
 
-</td>
-<td width="25%" valign="top" align="center">
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  ◉ 04 — TECHNOLOGY MATRIX                                        ◆ EXPANDED  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
 
-### 🔌 IoT / EMBEDDED
-
-ESP32 · Arduino  
-Embedded C · KiCad  
-Sensors · Hardware Interfaces
-
-</td>
-</tr>
-</table>
-
----
-
-## ◉ `04` — Technology Matrix
+</div>
 
 <details>
-<summary><b>🧬 Expand the stack</b></summary>
+<summary><b>🧬 Expand the full stack</b></summary>
 
 <br/>
 
@@ -222,6 +240,16 @@ Sensors · Hardware Interfaces
 <img src="https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph"/>
 </div>
 
+### `IoT / EMBEDDED`
+
+<div align="center">
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
+<img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
+<img src="https://img.shields.io/badge/Sensors-22C55E?style=for-the-badge&logo=adafruit&logoColor=white" alt="Sensors"/>
+</div>
+
 ### `TOOLS / DELIVERY`
 
 <div align="center">
@@ -232,9 +260,21 @@ Sensors · Hardware Interfaces
 
 </details>
 
----
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
 
-## ◉ `05` — Active Builds
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
+
+<!-- ═══════════════════════════════════ ACTIVE BUILDS ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-header-projects.svg" width="100%" alt="Active Builds section header" />
+</div>
+
+<br/>
+
+## ◈ Active Builds
 
 <table>
 <tr>
@@ -245,18 +285,25 @@ Sensors · Hardware Interfaces
 **Signal in → intelligence out**
 
 ```text
-RSS / News APIs
-      ↓
-Deduplication
-      ↓
-LLM Summarization
-      ↓
-Slack + Email
+┌─────────────────────────────┐
+│  RSS / News APIs            │
+│        ↓                    │
+│  Deduplication              │
+│        ↓                    │
+│  LLM Summarization         │
+│        ↓                    │
+│  Slack + Email              │
+│                             │
+│  STATUS: ● ACTIVE           │
+└─────────────────────────────┘
 ```
 
 Multi-source intelligence pipeline built around **n8n, Groq and structured automation**.
 
-`n8n` `Groq` `Slack` `Automation`
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&labelColor=050816)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&labelColor=050816)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&labelColor=050816)
+![Auto](https://img.shields.io/badge/Automation-00E5FF?style=flat-square&labelColor=050816)
 
 </td>
 <td width="50%" valign="top">
@@ -266,30 +313,53 @@ Multi-source intelligence pipeline built around **n8n, Groq and structured autom
 **Trust, but verify the robot.**
 
 ```text
-AI Agent
-   ↓
-Real file changes
-   ↓
-Diff capture
-   ↓
-Claim vs. reality
-   ↓
-Verification
+┌─────────────────────────────┐
+│  AI Agent                   │
+│     ↓                       │
+│  Real file changes          │
+│     ↓                       │
+│  Diff capture               │
+│     ↓                       │
+│  Claim vs. reality          │
+│     ↓                       │
+│  Verification               │
+│                             │
+│  STATUS: ● IN DEVELOPMENT   │
+└─────────────────────────────┘
 ```
 
 Tooling concept for detecting **phantom edits, misleading test claims and other agent-side optimism**.
 
-`Python` `Git` `VS Code` `Agents`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&labelColor=050816)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&labelColor=050816)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&labelColor=050816)
+![Agents](https://img.shields.io/badge/Agents-7C3AED?style=flat-square&labelColor=050816)
 
 </td>
 </tr>
 </table>
 
----
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
 
-## ◉ `06` — Featured Projects
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
 
-> **Selected signal, not the entire warehouse.**
+<!-- ═══════════════════════════════════ FEATURED PROJECTS ═══════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  ◉ 06 — FEATURED PROJECTS                              ◆ SELECTED SIGNAL     ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+## ◈ Featured Projects
+
+> **`// SELECTED SIGNAL, NOT THE ENTIRE WAREHOUSE.`**
 
 <table>
 <tr>
@@ -299,7 +369,11 @@ Tooling concept for detecting **phantom edits, misleading test claims and other 
 
 Multilingual legal-aid conversational platform using **RAG-based retrieval**, dense vector search and context-aware guidance grounded in Indian legal material.
 
-`React` `FastAPI` `MySQL` `FAISS` `OpenRouter` `Claude`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-7C3AED?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 [![Live](https://img.shields.io/badge/↗%20LIVE-00E5FF?style=for-the-badge&labelColor=050816)](https://legalbuddy-frontend-eta.vercel.app)
 [![Code](https://img.shields.io/badge/⌘%20CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=050816)](https://github.com/hariprakash0804/legalbuddy-frontend)
@@ -311,7 +385,11 @@ Multilingual legal-aid conversational platform using **RAG-based retrieval**, de
 
 Campus food-ordering system with **student, shop-owner and admin consoles**, digital-coin wallet and vendor inventory management.
 
-`React` `Tailwind` `Node.js` `Express` `MongoDB`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 [![Source](https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprakash0804/Digital-Canteen)
 
@@ -324,7 +402,9 @@ Campus food-ordering system with **student, shop-owner and admin consoles**, dig
 
 Full-stack matchmaking platform with responsive UI, authentication and profile management.
 
-`React` `Tailwind` `MySQL`
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 [![Source](https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprakash0804/Heaven-Match)
 
@@ -335,7 +415,9 @@ Full-stack matchmaking platform with responsive UI, authentication and profile m
 
 Browser game focused on clean JavaScript, DOM manipulation, state management and responsive UI.
 
-`HTML` `CSS` `JavaScript`
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 [![Source](https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprakash0804/tictactoe)
 
@@ -343,9 +425,21 @@ Browser game focused on clean JavaScript, DOM manipulation, state management and
 </tr>
 </table>
 
----
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
 
-## ◉ `07` — Research / Leadership / Wins
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
+
+<!-- ═══════════════════════════════════ WINS ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-header-wins.svg" width="100%" alt="Research Leadership Wins section header" />
+</div>
+
+<br/>
+
+## ◈ Research · Leadership · Wins
 
 <div align="center">
 
@@ -356,8 +450,18 @@ Browser game focused on clean JavaScript, DOM manipulation, state management and
 ### 🌍
 **WORLD RECORD**
 
-Asian Book of World Records  
-TanMillets awareness initiative
+```text
+┌──────────────────┐
+│ Asian Book of    │
+│ World Records    │
+│                  │
+│ TanMillets       │
+│ Awareness        │
+│ Initiative       │
+│                  │
+│ STATUS: VERIFIED │
+└──────────────────┘
+```
 
 </td>
 <td align="center" width="25%">
@@ -365,8 +469,18 @@ TanMillets awareness initiative
 ### 🏅
 **TEAM LEAD**
 
-Smart India Hackathon  
-AI-powered agriculture solution
+```text
+┌──────────────────┐
+│ Smart India      │
+│ Hackathon        │
+│                  │
+│ AI-Powered       │
+│ Agriculture      │
+│ Solution         │
+│                  │
+│ STATUS: SHIPPED  │
+└──────────────────┘
+```
 
 </td>
 <td align="center" width="25%">
@@ -374,8 +488,17 @@ AI-powered agriculture solution
 ### 📄
 **3× RESEARCH**
 
-Presented work at  
-Kalasalingam · KIT · KSR
+```text
+┌──────────────────┐
+│ Presented at:    │
+│                  │
+│ ◈ Kalasalingam   │
+│ ◈ KIT            │
+│ ◈ KSR            │
+│                  │
+│ STATUS: ACCEPTED │
+└──────────────────┘
+```
 
 </td>
 <td align="center" width="25%">
@@ -383,78 +506,80 @@ Kalasalingam · KIT · KSR
 ### 🗣️
 **PRESIDENT**
 
-Kamban Tamil Mandram  
-Culture & literature initiatives
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## ◉ `08` — Education Timeline
-
 ```text
-2022 ─────────────────────────────────────────────────────────── 2026
-  │                                                              │
-  ├─ B.Tech — Information Technology                             │
-  │  K.S.R. Institute for Engineering & Technology                │
-  │                                                              │
-  ├─ Minor: Sensor Technologies & IoT                            │
-  │                                                              │
-  └─ Core: DSA · OOP · DBMS · Web · IoT · Embedded · ML          │
-                                                                 ▼
-                                                            DEPLOY NEXT
+┌──────────────────┐
+│ Kamban Tamil     │
+│ Mandram          │
+│                  │
+│ Culture &        │
+│ Literature       │
+│ Initiatives      │
+│                  │
+│ STATUS: ACTIVE   │
+└──────────────────┘
 ```
 
----
-
-## ◉ `09` — 2026 Mission Control
-
-<div align="center">
-
-| Cycle | Objective | Signal |
-|:---:|:---|:---:|
-| `Q1` | LangGraph · LangSmith · Google Cloud · Dataflow | ✅ COMPLETE |
-| `Q2` | Advanced n8n · React Native · Monorepos | ✅ COMPLETE |
-| `Q3` | System Design · Apache Beam · Interview Readiness | 🔄 ACTIVE |
-| `Q4` | Cloud Certifications · Production AI Agents | 🎯 TARGET |
-
-</div>
-
-### `NOW / NEXT / SHIP`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**NOW**  `Q3`
-
-System Design · Apache Beam · Interview Readiness
-
-</td>
-<td width="33%" valign="top">
-
-**NEXT**  `Q4`
-
-Cloud Certifications · Production AI Agents
-
-</td>
-<td width="33%" valign="top">
-
-**SHIP**  `ALWAYS`
-
-Build → Verify → Measure → Iterate
-
 </td>
 </tr>
 </table>
 
----
+</div>
 
-## ◉ `10` — GitHub Telemetry
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
+
+<!-- ═══════════════════════════════════ EDUCATION ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-header-education.svg" width="100%" alt="Education Timeline section header" />
+</div>
+
+<br/>
+
+## ◈ Education Timeline
+
+<div align="center">
+  <img src="./assets/education-timeline.svg" width="100%" alt="Education timeline from 2022 to 2026" />
+</div>
+
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
+
+<!-- ═══════════════════════════════════ MISSION CONTROL ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-header-mission.svg" width="100%" alt="Mission Control section header" />
+</div>
+
+<br/>
+
+## ◈ Mission Control — 2026
+
+<div align="center">
+  <img src="./assets/mission-control.svg" width="100%" alt="2026 Mission Control dashboard showing quarterly progress" />
+</div>
+
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
+
+<!-- ═══════════════════════════════════ TELEMETRY ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-header-telemetry.svg" width="100%" alt="GitHub Telemetry section header" />
+</div>
+
+<br/>
+
+## ◈ GitHub Telemetry
 
 <div align="center">
 
@@ -471,17 +596,43 @@ Build → Verify → Measure → Iterate
 
 </div>
 
----
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
 
-## ◉ `11` — Recent Activity Stream
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
+
+<!-- ═══════════════════════════════════ RECENT ACTIVITY ═══════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  ◉ 11 — RECENT ACTIVITY STREAM                               ◆ AUTO-SYNCED   ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <!--RECENT_ACTIVITY:start-->
 <!-- This section is updated automatically by .github/workflows/recent-activity.yml -->
 <!--RECENT_ACTIVITY:end-->
 
----
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
 
-## ◉ `12` — Contribution Core
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
+
+<!-- ═══════════════════════════════════ CONTRIBUTION CORE ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-header-contrib.svg" width="100%" alt="Contribution Core section header" />
+</div>
+
+<br/>
+
+## ◈ Contribution Core
 
 <div align="center">
 
@@ -513,21 +664,27 @@ Build → Verify → Measure → Iterate
 
 **◈ FEED**
 
+```text
 Commit history
+```
 
 </td>
 <td align="center" width="33%">
 
 **◈ VECTOR**
 
+```text
 Contribution path
+```
 
 </td>
 <td align="center" width="33%">
 
 **◈ SIGNAL**
 
+```text
 Activity intensity
+```
 
 </td>
 </tr>
@@ -537,21 +694,48 @@ Activity intensity
 
 </div>
 
----
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
 
-## ◉ `13` — Proof of Work
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
+
+<!-- ═══════════════════════════════════ PROOF OF WORK ═══════════════════════════════════ -->
 
 <div align="center">
 
-`AI / RAG`　`FULL-STACK`　`AUTOMATION`　`IoT / EMBEDDED`
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  ◉ 13 — PROOF OF WORK                                        ◆ VERIFIED      ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
 
-**Selected repos first. Dynamic telemetry second. Everything else lives in the code.**
+<br/>
+
+![AI/RAG](https://img.shields.io/badge/AI%20/%20RAG-7C3AED?style=for-the-badge&labelColor=050816)
+![Full-Stack](https://img.shields.io/badge/FULL--STACK-00E5FF?style=for-the-badge&labelColor=050816)
+![Automation](https://img.shields.io/badge/AUTOMATION-EC4899?style=for-the-badge&labelColor=050816)
+![IoT](https://img.shields.io/badge/IoT%20/%20EMBEDDED-22C55E?style=for-the-badge&labelColor=050816)
+
+**`// SELECTED REPOS FIRST. DYNAMIC TELEMETRY SECOND. EVERYTHING ELSE LIVES IN THE CODE.`**
 
 </div>
 
----
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
 
-## ◉ `14` — Connect
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
+
+<!-- ═══════════════════════════════════ CONNECT ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-header-connect.svg" width="100%" alt="Connect section header" />
+</div>
+
+<br/>
+
+## ◈ Connect
 
 <div align="center">
 
@@ -564,28 +748,38 @@ Activity intensity
 <br/>
 
 ```text
-┌──────────────────────────────────────────────────────────────────┐
-│  EMAIL      hariprakashanbarasan@gmail.com                       │
-│  LOCATION   Salem, Tamil Nadu, India                             │
-│  LANGUAGES  Tamil · English · Kannada                            │
-│  INTO       Books · Music · Technology                            │
-└──────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║  ◆ CONTACT MATRIX                                              ║
+║  ─────────────────────────────────────────────────────────────  ║
+║  EMAIL      hariprakashanbarasan@gmail.com                      ║
+║  LOCATION   Salem, Tamil Nadu, India                            ║
+║  LANGUAGES  Tamil · English · Kannada                           ║
+║  INTO       Books · Music · Technology                          ║
+║  STATUS     ● OPEN TO OPPORTUNITIES                             ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
----
+<!-- ═══════════════════════════════════ DIVIDER ═══════════════════════════════════ -->
+
+<div align="center">
+  <img src="./assets/section-divider.svg" width="100%" alt="section divider" />
+</div>
+
+<!-- ═══════════════════════════════════ FOOTER ═══════════════════════════════════ -->
 
 <div align="center">
 
 ### `> SYSTEM MESSAGE`
 
-**Build relentlessly. Verify everything. Keep learning.**
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&height=36&lines=Thanks+for+visiting+the+profile.;Let's+build+something+useful.;Vanakkam+%F0%9F%91%8B+from+Tamil+Nadu%2C+India." alt="Footer typing"/>
+<img
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&height=36&lines=Thanks+for+visiting+the+profile.;Let's+build+something+useful.;Vanakkam+%F0%9F%91%8B+from+Tamil+Nadu%2C+India."
+  alt="Footer typing"
+/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:00E5FF,50:7C3AED,75:EC4899,100:050816&height=120&section=footer&animation=twinkling" width="100%" alt="Futuristic footer"/>
+<img src="./assets/footer-terminal.svg" width="100%" alt="Terminal footer with typing animation" />
 
 </div>

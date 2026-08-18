@@ -1,0 +1,92 @@
+<svg width="900" height="120" viewBox="0 0 900 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes stat-glow {
+        0%, 100% { filter: drop-shadow(0 0 4px currentColor); opacity: 0.8; }
+        50% { filter: drop-shadow(0 0 12px currentColor); opacity: 1; }
+      }
+      @keyframes bar-fill {
+        0% { width: 0; }
+        100% { width: 100%; }
+      }
+      @keyframes count-pulse {
+        0%, 100% { opacity: 0.9; }
+        50% { opacity: 1; }
+      }
+      @keyframes border-glow {
+        0%, 100% { stroke-opacity: 0.2; }
+        50% { stroke-opacity: 0.5; }
+      }
+      .stat-value {
+        animation: count-pulse 2s ease-in-out infinite;
+      }
+      .card-border {
+        animation: border-glow 3s ease-in-out infinite;
+      }
+      .stat-icon {
+        animation: stat-glow 2.5s ease-in-out infinite;
+      }
+      .stat-icon-d1 { animation-delay: 0.3s; }
+      .stat-icon-d2 { animation-delay: 0.6s; }
+      .stat-icon-d3 { animation-delay: 0.9s; }
+      .stat-icon-d4 { animation-delay: 1.2s; }
+    </style>
+    <linearGradient id="sc-bg" x1="0" y1="0" x2="900" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a0a14"/>
+      <stop offset="1" stop-color="#0d0820"/>
+    </linearGradient>
+    <linearGradient id="sc-border" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF" stop-opacity="0.4"/>
+      <stop offset="0.5" stop-color="#7C3AED" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0.4"/>
+    </linearGradient>
+    <pattern id="sc-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" stroke="#38BDF8" stroke-opacity="0.04" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="120" rx="14" fill="url(#sc-bg)"/>
+  <rect width="900" height="120" rx="14" fill="url(#sc-grid)"/>
+  <rect x="1" y="1" width="898" height="118" rx="13" fill="none" stroke="url(#sc-border)" class="card-border"/>
+
+  <!-- Stat: Projects -->
+  <g transform="translate(50, 20)" font-family="'Courier New', monospace">
+    <text x="0" y="16" fill="#64748B" font-size="11" letter-spacing="2">PROJECTS</text>
+    <text x="0" y="55" fill="#00E5FF" font-size="36" font-weight="700" class="stat-value">10+</text>
+    <rect x="0" y="72" width="80" height="2" rx="1" fill="#00E5FF" opacity="0.3"/>
+    <text x="0" y="90" fill="#475569" font-size="10">SHIPPED</text>
+  </g>
+
+  <!-- Stat: Technologies -->
+  <g transform="translate(230, 20)" font-family="'Courier New', monospace">
+    <text x="0" y="16" fill="#64748B" font-size="11" letter-spacing="2">TECHNOLOGIES</text>
+    <text x="0" y="55" fill="#7C3AED" font-size="36" font-weight="700" class="stat-value stat-icon stat-icon-d1">15+</text>
+    <rect x="0" y="72" width="80" height="2" rx="1" fill="#7C3AED" opacity="0.3"/>
+    <text x="0" y="90" fill="#475569" font-size="10">MASTERED</text>
+  </g>
+
+  <!-- Stat: Research -->
+  <g transform="translate(420, 20)" font-family="'Courier New', monospace">
+    <text x="0" y="16" fill="#64748B" font-size="11" letter-spacing="2">RESEARCH</text>
+    <text x="0" y="55" fill="#EC4899" font-size="36" font-weight="700" class="stat-value stat-icon stat-icon-d2">3</text>
+    <rect x="0" y="72" width="80" height="2" rx="1" fill="#EC4899" opacity="0.3"/>
+    <text x="0" y="90" fill="#475569" font-size="10">PRESENTATIONS</text>
+  </g>
+
+  <!-- Stat: Awards -->
+  <g transform="translate(590, 20)" font-family="'Courier New', monospace">
+    <text x="0" y="16" fill="#64748B" font-size="11" letter-spacing="2">AWARDS</text>
+    <text x="0" y="55" fill="#22C55E" font-size="36" font-weight="700" class="stat-value stat-icon stat-icon-d3">5+</text>
+    <rect x="0" y="72" width="80" height="2" rx="1" fill="#22C55E" opacity="0.3"/>
+    <text x="0" y="90" fill="#475569" font-size="10">WON</text>
+  </g>
+
+  <!-- Stat: World Record -->
+  <g transform="translate(750, 20)" font-family="'Courier New', monospace">
+    <text x="0" y="16" fill="#64748B" font-size="11" letter-spacing="2">WORLD RECORD</text>
+    <text x="0" y="55" fill="#FBBF24" font-size="36" font-weight="700" class="stat-value stat-icon stat-icon-d4">01</text>
+    <rect x="0" y="72" width="80" height="2" rx="1" fill="#FBBF24" opacity="0.3"/>
+    <text x="0" y="90" fill="#475569" font-size="10">CERTIFIED</text>
+  </g>
+</svg>

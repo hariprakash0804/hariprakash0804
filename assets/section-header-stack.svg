@@ -1,0 +1,27 @@
+<svg width="900" height="50" viewBox="0 0 900 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes sh-glow { 0%, 100% { filter: drop-shadow(0 0 4px #7C3AED); } 50% { filter: drop-shadow(0 0 12px #7C3AED); } }
+      @keyframes sh-dot { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } }
+      .sh-title { animation: sh-glow 3s ease-in-out infinite; }
+      .sh-dot-1 { animation: sh-dot 2s ease-in-out infinite; }
+    </style>
+    <linearGradient id="sh2-line" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#7C3AED"/>
+      <stop offset="0.7" stop-color="#EC4899"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="50" rx="8" fill="#050510" fill-opacity="0.6"/>
+  <rect x="1" y="1" width="898" height="48" rx="7" fill="none" stroke="#1E293B" stroke-opacity="0.3"/>
+  <path d="M8 14 L8 6 L16 6" stroke="#7C3AED" stroke-width="1.5" fill="none"/>
+  <path d="M892 14 L892 6 L884 6" stroke="#EC4899" stroke-width="1.5" fill="none"/>
+  <path d="M8 36 L8 44 L16 44" stroke="#EC4899" stroke-width="1.5" fill="none"/>
+  <path d="M892 36 L892 44 L884 44" stroke="#7C3AED" stroke-width="1.5" fill="none"/>
+  <text x="28" y="31" fill="#7C3AED" font-family="'Courier New', monospace" font-size="14" font-weight="700" letter-spacing="1" class="sh-title">◉ 02</text>
+  <text x="90" y="31" fill="#F8FAFC" font-family="'Courier New', monospace" font-size="15" font-weight="700" letter-spacing="3">COMMAND CENTER</text>
+  <circle cx="840" cy="25" r="4" fill="#22C55E" class="sh-dot-1"/>
+  <text x="852" y="29" fill="#64748B" font-family="'Courier New', monospace" font-size="10">ACTIVE</text>
+  <rect x="24" y="46" width="852" height="1" fill="url(#sh2-line)" opacity="0.5"/>
+</svg>

@@ -1,0 +1,60 @@
+<svg width="900" height="40" viewBox="0 0 900 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes flow {
+        0% { stroke-dashoffset: 60; }
+        100% { stroke-dashoffset: 0; }
+      }
+      @keyframes diamond-pulse {
+        0%, 100% { opacity: 0.5; transform: scale(1); }
+        50% { opacity: 1; transform: scale(1.3); }
+      }
+      @keyframes dot-glow {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 1; }
+      }
+      .flow-line {
+        stroke-dasharray: 12 6;
+        animation: flow 2s linear infinite;
+      }
+      .center-diamond {
+        animation: diamond-pulse 2s ease-in-out infinite;
+        transform-origin: 450px 20px;
+      }
+      .dot-left {
+        animation: dot-glow 2s ease-in-out infinite;
+      }
+      .dot-right {
+        animation: dot-glow 2s ease-in-out infinite 1s;
+      }
+    </style>
+    <linearGradient id="div-grad-left" x1="0" y1="0" x2="430" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.4" stop-color="#00E5FF" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="div-grad-right" x1="470" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="0.6" stop-color="#EC4899" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Left line -->
+  <line x1="40" y1="20" x2="430" y2="20" stroke="url(#div-grad-left)" stroke-width="1.5" class="flow-line"/>
+  <!-- Right line -->
+  <line x1="470" y1="20" x2="860" y2="20" stroke="url(#div-grad-right)" stroke-width="1.5" class="flow-line"/>
+
+  <!-- Center diamond -->
+  <polygon points="450,10 460,20 450,30 440,20" fill="#7C3AED" class="center-diamond"/>
+
+  <!-- End dots -->
+  <circle cx="30" cy="20" r="3" fill="#00E5FF" class="dot-left"/>
+  <circle cx="870" cy="20" r="3" fill="#EC4899" class="dot-right"/>
+
+  <!-- Small accent dots -->
+  <circle cx="100" cy="20" r="1.5" fill="#00E5FF" opacity="0.3"/>
+  <circle cx="200" cy="20" r="1.5" fill="#00E5FF" opacity="0.2"/>
+  <circle cx="700" cy="20" r="1.5" fill="#EC4899" opacity="0.2"/>
+  <circle cx="800" cy="20" r="1.5" fill="#EC4899" opacity="0.3"/>
+</svg>

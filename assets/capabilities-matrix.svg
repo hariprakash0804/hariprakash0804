@@ -1,0 +1,108 @@
+<svg width="900" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes section-glow {
+        0%, 100% { stroke-opacity: 0.2; }
+        50% { stroke-opacity: 0.6; }
+      }
+      @keyframes header-pulse {
+        0%, 100% { opacity: 0.8; }
+        50% { opacity: 1; }
+      }
+      @keyframes dot-blink {
+        0%, 40%, 100% { opacity: 1; }
+        20% { opacity: 0.3; }
+      }
+      @keyframes icon-glow {
+        0%, 100% { filter: drop-shadow(0 0 3px currentColor); }
+        50% { filter: drop-shadow(0 0 10px currentColor); }
+      }
+      .sec-border { animation: section-glow 3s ease-in-out infinite; }
+      .sec-border-d1 { animation: section-glow 3s ease-in-out infinite 0.5s; }
+      .sec-border-d2 { animation: section-glow 3s ease-in-out infinite 1s; }
+      .sec-border-d3 { animation: section-glow 3s ease-in-out infinite 1.5s; }
+      .header-glow { animation: header-pulse 2s ease-in-out infinite; }
+      .status-blink { animation: dot-blink 3s ease-in-out infinite; }
+      .icon-fx { animation: icon-glow 2.5s ease-in-out infinite; }
+    </style>
+    <linearGradient id="cm-bg" x1="0" y1="0" x2="900" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a0a14"/>
+      <stop offset="1" stop-color="#0d0820"/>
+    </linearGradient>
+    <pattern id="cm-grid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M16 0H0V16" stroke="#38BDF8" stroke-opacity="0.03" stroke-width="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="220" rx="14" fill="url(#cm-bg)"/>
+  <rect width="900" height="220" rx="14" fill="url(#cm-grid)"/>
+
+  <!-- FRONTEND -->
+  <g transform="translate(15, 15)">
+    <rect width="208" height="190" rx="12" fill="#050510" fill-opacity="0.6" stroke="#00E5FF" stroke-opacity="0.2" class="sec-border"/>
+    <text x="104" y="30" fill="#00E5FF" font-family="'Courier New', monospace" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="3" class="header-glow">⚡ FRONTEND</text>
+    <line x1="20" y1="42" x2="188" y2="42" stroke="#00E5FF" stroke-opacity="0.15"/>
+    <circle cx="20" cy="36" r="3" fill="#00E5FF" class="status-blink"/>
+    <g font-family="'Courier New', monospace" font-size="12" fill="#CBD5E1">
+      <text x="104" y="68" text-anchor="middle">React · Next.js</text>
+      <text x="104" y="90" text-anchor="middle">TypeScript</text>
+      <text x="104" y="112" text-anchor="middle">Tailwind · Three.js</text>
+      <text x="104" y="134" text-anchor="middle">Framer Motion</text>
+      <text x="104" y="156" text-anchor="middle">GSAP</text>
+    </g>
+    <rect x="20" y="172" width="168" height="3" rx="1.5" fill="#00E5FF" opacity="0.15"/>
+    <rect x="20" y="172" width="140" height="3" rx="1.5" fill="#00E5FF" opacity="0.4"/>
+  </g>
+
+  <!-- BACKEND -->
+  <g transform="translate(238, 15)">
+    <rect width="208" height="190" rx="12" fill="#050510" fill-opacity="0.6" stroke="#7C3AED" stroke-opacity="0.2" class="sec-border-d1"/>
+    <text x="104" y="30" fill="#7C3AED" font-family="'Courier New', monospace" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="3" class="header-glow">⚙️ BACKEND</text>
+    <line x1="20" y1="42" x2="188" y2="42" stroke="#7C3AED" stroke-opacity="0.15"/>
+    <circle cx="20" cy="36" r="3" fill="#7C3AED" class="status-blink"/>
+    <g font-family="'Courier New', monospace" font-size="12" fill="#CBD5E1">
+      <text x="104" y="68" text-anchor="middle">Node.js · Express</text>
+      <text x="104" y="90" text-anchor="middle">Python · FastAPI</text>
+      <text x="104" y="112" text-anchor="middle">REST · Socket.io</text>
+      <text x="104" y="134" text-anchor="middle">tRPC · BullMQ</text>
+      <text x="104" y="156" text-anchor="middle">Redis · Docker</text>
+    </g>
+    <rect x="20" y="172" width="168" height="3" rx="1.5" fill="#7C3AED" opacity="0.15"/>
+    <rect x="20" y="172" width="130" height="3" rx="1.5" fill="#7C3AED" opacity="0.4"/>
+  </g>
+
+  <!-- AI / AUTOMATION -->
+  <g transform="translate(461, 15)">
+    <rect width="208" height="190" rx="12" fill="#050510" fill-opacity="0.6" stroke="#EC4899" stroke-opacity="0.2" class="sec-border-d2"/>
+    <text x="104" y="30" fill="#EC4899" font-family="'Courier New', monospace" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="3" class="header-glow">🧠 AI / AUTO</text>
+    <line x1="20" y1="42" x2="188" y2="42" stroke="#EC4899" stroke-opacity="0.15"/>
+    <circle cx="20" cy="36" r="3" fill="#EC4899" class="status-blink"/>
+    <g font-family="'Courier New', monospace" font-size="12" fill="#CBD5E1">
+      <text x="104" y="68" text-anchor="middle">RAG · FAISS · LLMs</text>
+      <text x="104" y="90" text-anchor="middle">LangChain</text>
+      <text x="104" y="112" text-anchor="middle">LangGraph</text>
+      <text x="104" y="134" text-anchor="middle">Groq · n8n</text>
+      <text x="104" y="156" text-anchor="middle">AI Agents</text>
+    </g>
+    <rect x="20" y="172" width="168" height="3" rx="1.5" fill="#EC4899" opacity="0.15"/>
+    <rect x="20" y="172" width="150" height="3" rx="1.5" fill="#EC4899" opacity="0.4"/>
+  </g>
+
+  <!-- IoT / EMBEDDED -->
+  <g transform="translate(684, 15)">
+    <rect width="208" height="190" rx="12" fill="#050510" fill-opacity="0.6" stroke="#22C55E" stroke-opacity="0.2" class="sec-border-d3"/>
+    <text x="104" y="30" fill="#22C55E" font-family="'Courier New', monospace" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="3" class="header-glow">🔌 IoT</text>
+    <line x1="20" y1="42" x2="188" y2="42" stroke="#22C55E" stroke-opacity="0.15"/>
+    <circle cx="20" cy="36" r="3" fill="#22C55E" class="status-blink"/>
+    <g font-family="'Courier New', monospace" font-size="12" fill="#CBD5E1">
+      <text x="104" y="68" text-anchor="middle">ESP32 · Arduino</text>
+      <text x="104" y="90" text-anchor="middle">Embedded C</text>
+      <text x="104" y="112" text-anchor="middle">KiCad PCB</text>
+      <text x="104" y="134" text-anchor="middle">Sensors</text>
+      <text x="104" y="156" text-anchor="middle">Hardware I/F</text>
+    </g>
+    <rect x="20" y="172" width="168" height="3" rx="1.5" fill="#22C55E" opacity="0.15"/>
+    <rect x="20" y="172" width="120" height="3" rx="1.5" fill="#22C55E" opacity="0.4"/>
+  </g>
+</svg>

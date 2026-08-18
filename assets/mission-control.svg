@@ -1,0 +1,122 @@
+<svg width="900" height="200" viewBox="0 0 900 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes progress-glow {
+        0%, 100% { filter: drop-shadow(0 0 3px currentColor); }
+        50% { filter: drop-shadow(0 0 8px currentColor); }
+      }
+      @keyframes status-blink {
+        0%, 40%, 100% { opacity: 1; }
+        20% { opacity: 0.4; }
+      }
+      @keyframes bar-shimmer {
+        0% { x: -100; }
+        100% { x: 200; }
+      }
+      @keyframes active-pulse {
+        0%, 100% { stroke-opacity: 0.3; }
+        50% { stroke-opacity: 0.7; }
+      }
+      .q-complete { animation: progress-glow 3s ease-in-out infinite; }
+      .q-active { animation: active-pulse 1.5s ease-in-out infinite; }
+      .status-indicator { animation: status-blink 2s ease-in-out infinite; }
+    </style>
+    <linearGradient id="mc-bg" x1="0" y1="0" x2="900" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a0a14"/>
+      <stop offset="1" stop-color="#0d0820"/>
+    </linearGradient>
+    <pattern id="mc-grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" stroke="#38BDF8" stroke-opacity="0.03" stroke-width="0.4"/>
+    </pattern>
+    <clipPath id="bar-clip-q1"><rect x="0" y="0" width="170" height="8" rx="4"/></clipPath>
+    <clipPath id="bar-clip-q2"><rect x="0" y="0" width="170" height="8" rx="4"/></clipPath>
+    <clipPath id="bar-clip-q3"><rect x="0" y="0" width="170" height="8" rx="4"/></clipPath>
+    <clipPath id="bar-clip-q4"><rect x="0" y="0" width="170" height="8" rx="4"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" rx="14" fill="url(#mc-bg)"/>
+  <rect width="900" height="200" rx="14" fill="url(#mc-grid)"/>
+  <rect x="1" y="1" width="898" height="198" rx="13" fill="none" stroke="#1E293B" stroke-opacity="0.3"/>
+
+  <!-- Header -->
+  <text x="450" y="30" fill="#64748B" font-family="'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="4">◆ 2026 MISSION CONTROL ◆</text>
+  <line x1="50" y1="42" x2="850" y2="42" stroke="#1E293B" stroke-width="1"/>
+
+  <!-- Q1 - Complete -->
+  <g transform="translate(30, 55)" font-family="'Courier New', monospace">
+    <rect width="200" height="65" rx="8" fill="#050510" fill-opacity="0.6" stroke="#22C55E" stroke-opacity="0.2" class="q-complete"/>
+    <text x="12" y="20" fill="#22C55E" font-size="12" font-weight="700" letter-spacing="2">Q1</text>
+    <text x="50" y="20" fill="#22C55E" font-size="10" class="status-indicator">✅ COMPLETE</text>
+    <text x="12" y="38" fill="#CBD5E1" font-size="9">LangGraph · LangSmith</text>
+    <text x="12" y="52" fill="#CBD5E1" font-size="9">Google Cloud · Dataflow</text>
+    <g transform="translate(12, 58)">
+      <rect width="170" height="4" rx="2" fill="#22C55E" fill-opacity="0.15"/>
+      <rect width="170" height="4" rx="2" fill="#22C55E" fill-opacity="0.6"/>
+    </g>
+  </g>
+
+  <!-- Q2 - Complete -->
+  <g transform="translate(245, 55)" font-family="'Courier New', monospace">
+    <rect width="200" height="65" rx="8" fill="#050510" fill-opacity="0.6" stroke="#22C55E" stroke-opacity="0.2" class="q-complete"/>
+    <text x="12" y="20" fill="#22C55E" font-size="12" font-weight="700" letter-spacing="2">Q2</text>
+    <text x="50" y="20" fill="#22C55E" font-size="10" class="status-indicator">✅ COMPLETE</text>
+    <text x="12" y="38" fill="#CBD5E1" font-size="9">Advanced n8n</text>
+    <text x="12" y="52" fill="#CBD5E1" font-size="9">React Native · Monorepos</text>
+    <g transform="translate(12, 58)">
+      <rect width="170" height="4" rx="2" fill="#22C55E" fill-opacity="0.15"/>
+      <rect width="170" height="4" rx="2" fill="#22C55E" fill-opacity="0.6"/>
+    </g>
+  </g>
+
+  <!-- Q3 - Active -->
+  <g transform="translate(460, 55)" font-family="'Courier New', monospace">
+    <rect width="200" height="65" rx="8" fill="#050510" fill-opacity="0.6" stroke="#00E5FF" stroke-opacity="0.3" class="q-active"/>
+    <text x="12" y="20" fill="#00E5FF" font-size="12" font-weight="700" letter-spacing="2">Q3</text>
+    <text x="50" y="20" fill="#00E5FF" font-size="10" class="status-indicator">🔄 ACTIVE</text>
+    <text x="12" y="38" fill="#CBD5E1" font-size="9">System Design</text>
+    <text x="12" y="52" fill="#CBD5E1" font-size="9">Apache Beam · Interview</text>
+    <g transform="translate(12, 58)">
+      <rect width="170" height="4" rx="2" fill="#00E5FF" fill-opacity="0.15"/>
+      <rect width="102" height="4" rx="2" fill="#00E5FF" fill-opacity="0.6"/>
+    </g>
+  </g>
+
+  <!-- Q4 - Target -->
+  <g transform="translate(675, 55)" font-family="'Courier New', monospace">
+    <rect width="200" height="65" rx="8" fill="#050510" fill-opacity="0.6" stroke="#7C3AED" stroke-opacity="0.2"/>
+    <text x="12" y="20" fill="#7C3AED" font-size="12" font-weight="700" letter-spacing="2">Q4</text>
+    <text x="50" y="20" fill="#7C3AED" font-size="10">🎯 TARGET</text>
+    <text x="12" y="38" fill="#CBD5E1" font-size="9">Cloud Certifications</text>
+    <text x="12" y="52" fill="#CBD5E1" font-size="9">Production AI Agents</text>
+    <g transform="translate(12, 58)">
+      <rect width="170" height="4" rx="2" fill="#7C3AED" fill-opacity="0.15"/>
+      <rect width="0" height="4" rx="2" fill="#7C3AED" fill-opacity="0.6"/>
+    </g>
+  </g>
+
+  <!-- NOW / NEXT / SHIP -->
+  <g transform="translate(30, 140)" font-family="'Courier New', monospace">
+    <!-- NOW -->
+    <rect width="270" height="45" rx="8" fill="#050510" fill-opacity="0.4" stroke="#00E5FF" stroke-opacity="0.15"/>
+    <text x="14" y="18" fill="#00E5FF" font-size="11" font-weight="700" letter-spacing="2">NOW</text>
+    <text x="60" y="18" fill="#64748B" font-size="10">Q3</text>
+    <text x="14" y="36" fill="#CBD5E1" font-size="10">System Design · Apache Beam · Interview</text>
+
+    <!-- NEXT -->
+    <g transform="translate(285, 0)">
+      <rect width="270" height="45" rx="8" fill="#050510" fill-opacity="0.4" stroke="#7C3AED" stroke-opacity="0.15"/>
+      <text x="14" y="18" fill="#7C3AED" font-size="11" font-weight="700" letter-spacing="2">NEXT</text>
+      <text x="60" y="18" fill="#64748B" font-size="10">Q4</text>
+      <text x="14" y="36" fill="#CBD5E1" font-size="10">Cloud Certs · Production AI Agents</text>
+    </g>
+
+    <!-- SHIP -->
+    <g transform="translate(570, 0)">
+      <rect width="270" height="45" rx="8" fill="#050510" fill-opacity="0.4" stroke="#EC4899" stroke-opacity="0.15"/>
+      <text x="14" y="18" fill="#EC4899" font-size="11" font-weight="700" letter-spacing="2">SHIP</text>
+      <text x="60" y="18" fill="#64748B" font-size="10">ALWAYS</text>
+      <text x="14" y="36" fill="#CBD5E1" font-size="10">Build → Verify → Measure → Iterate</text>
+    </g>
+  </g>
+</svg>

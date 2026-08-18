@@ -1,79 +1,292 @@
 <svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <style>
+      @keyframes scanline {
+        0% { transform: translateY(-420px); }
+        100% { transform: translateY(420px); }
+      }
+      @keyframes pulse-glow {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 1; }
+      }
+      @keyframes flow-gradient {
+        0% { stroke-dashoffset: 1600; }
+        100% { stroke-dashoffset: 0; }
+      }
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      @keyframes radar-ping {
+        0% { r: 3; opacity: 1; }
+        100% { r: 40; opacity: 0; }
+      }
+      @keyframes flicker {
+        0%, 93%, 95%, 97%, 100% { opacity: 1; }
+        94%, 96% { opacity: 0.6; }
+      }
+      @keyframes grid-pulse {
+        0%, 100% { opacity: 0.05; }
+        50% { opacity: 0.12; }
+      }
+      @keyframes corner-glow {
+        0%, 100% { stroke-opacity: 0.3; }
+        50% { stroke-opacity: 1; }
+      }
+      @keyframes data-stream {
+        0% { transform: translateY(0); opacity: 0; }
+        10% { opacity: 0.6; }
+        90% { opacity: 0.6; }
+        100% { transform: translateY(420px); opacity: 0; }
+      }
+      @keyframes text-glow {
+        0%, 100% { filter: drop-shadow(0 0 8px #00E5FF); }
+        50% { filter: drop-shadow(0 0 20px #00E5FF) drop-shadow(0 0 40px #7C3AED); }
+      }
+      @keyframes status-pulse {
+        0%, 100% { fill: #22C55E; }
+        50% { fill: #4ADE80; }
+      }
+      .scanline-bar {
+        animation: scanline 4s linear infinite;
+      }
+      .glow-orb-cyan {
+        animation: pulse-glow 3s ease-in-out infinite;
+      }
+      .glow-orb-violet {
+        animation: pulse-glow 3.5s ease-in-out infinite 0.5s;
+      }
+      .accent-line {
+        stroke-dasharray: 20 8;
+        animation: flow-gradient 3s linear infinite;
+      }
+      .cursor-blink {
+        animation: blink 1s step-end infinite;
+      }
+      .radar-ring {
+        animation: radar-ping 2.5s ease-out infinite;
+      }
+      .radar-ring-delay {
+        animation: radar-ping 2.5s ease-out infinite 1.2s;
+      }
+      .flicker-text {
+        animation: flicker 4s linear infinite;
+      }
+      .grid-bg {
+        animation: grid-pulse 5s ease-in-out infinite;
+      }
+      .corner-bracket {
+        animation: corner-glow 2.5s ease-in-out infinite;
+      }
+      .corner-bracket-delay {
+        animation: corner-glow 2.5s ease-in-out infinite 1.2s;
+      }
+      .data-particle-1 {
+        animation: data-stream 6s linear infinite;
+      }
+      .data-particle-2 {
+        animation: data-stream 6s linear infinite 2s;
+      }
+      .data-particle-3 {
+        animation: data-stream 6s linear infinite 4s;
+      }
+      .name-glow {
+        animation: text-glow 3s ease-in-out infinite;
+      }
+      .status-dot {
+        animation: status-pulse 1.5s ease-in-out infinite;
+      }
+    </style>
+
     <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#020617"/>
-      <stop offset="0.48" stop-color="#08112A"/>
-      <stop offset="1" stop-color="#12051F"/>
+      <stop stop-color="#050510"/>
+      <stop offset="0.35" stop-color="#0a0a1a"/>
+      <stop offset="0.65" stop-color="#0d0820"/>
+      <stop offset="1" stop-color="#08051a"/>
     </linearGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+    <linearGradient id="line-grad" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
       <stop stop-color="#00E5FF" stop-opacity="0"/>
-      <stop offset="0.2" stop-color="#00E5FF"/>
-      <stop offset="0.52" stop-color="#7C3AED"/>
-      <stop offset="0.82" stop-color="#EC4899"/>
+      <stop offset="0.15" stop-color="#00E5FF"/>
+      <stop offset="0.5" stop-color="#7C3AED"/>
+      <stop offset="0.85" stop-color="#EC4899"/>
       <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="glow" x1="160" y1="55" x2="1460" y2="345" gradientUnits="userSpaceOnUse">
+    <linearGradient id="glow-grad" x1="160" y1="55" x2="1460" y2="345" gradientUnits="userSpaceOnUse">
       <stop stop-color="#00E5FF"/>
       <stop offset="0.55" stop-color="#7C3AED"/>
       <stop offset="1" stop-color="#EC4899"/>
     </linearGradient>
-    <filter id="blur" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="16"/>
+    <linearGradient id="scanline-grad" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00E5FF" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="hud-border" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#00E5FF" stop-opacity="0.5"/>
+      <stop offset="0.5" stop-color="#7C3AED" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0.5"/>
+    </linearGradient>
+
+    <filter id="blur-lg" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="20"/>
     </filter>
-    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="4"/>
+    <filter id="blur-md" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8"/>
     </filter>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" stroke="#38BDF8" stroke-opacity="0.08"/>
+    <filter id="blur-sm" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <filter id="neon-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#38BDF8" stroke-opacity="0.06" stroke-width="0.5"/>
+    </pattern>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="0.5" fill="#00E5FF" opacity="0.15"/>
     </pattern>
   </defs>
 
-  <rect width="1600" height="420" rx="26" fill="url(#bg)"/>
-  <rect x="1" y="1" width="1598" height="418" rx="25" stroke="#1E293B"/>
-  <rect x="26" y="24" width="1548" height="372" rx="22" fill="url(#grid)"/>
+  <!-- === BACKGROUND === -->
+  <rect width="1600" height="420" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1598" height="418" rx="23" stroke="url(#hud-border)" stroke-opacity="0.4"/>
 
-  <ellipse cx="1270" cy="92" rx="290" ry="100" fill="#7C3AED" fill-opacity="0.16" filter="url(#blur)"/>
-  <ellipse cx="360" cy="330" rx="320" ry="90" fill="#00E5FF" fill-opacity="0.12" filter="url(#blur)"/>
+  <!-- Grid overlay -->
+  <rect x="24" y="24" width="1552" height="372" rx="20" fill="url(#grid)" class="grid-bg"/>
+  <rect x="24" y="24" width="1552" height="372" rx="20" fill="url(#dots)"/>
 
-  <path d="M55 292C280 255 370 350 604 290C820 235 923 112 1137 176C1318 231 1372 293 1545 234" stroke="url(#glow)" stroke-width="3" opacity="0.45"/>
-  <path d="M55 292C280 255 370 350 604 290C820 235 923 112 1137 176C1318 231 1372 293 1545 234" stroke="url(#line)" stroke-width="1"/>
+  <!-- === AMBIENT GLOW ORBS === -->
+  <ellipse cx="300" cy="340" rx="350" ry="100" fill="#00E5FF" fill-opacity="0.08" filter="url(#blur-lg)" class="glow-orb-cyan"/>
+  <ellipse cx="1300" cy="80" rx="300" ry="100" fill="#7C3AED" fill-opacity="0.12" filter="url(#blur-lg)" class="glow-orb-violet"/>
+  <ellipse cx="800" cy="210" rx="200" ry="60" fill="#EC4899" fill-opacity="0.06" filter="url(#blur-lg)" class="glow-orb-cyan"/>
 
-  <g opacity="0.75">
-    <path d="M74 74H225" stroke="#00E5FF" stroke-width="3"/>
-    <path d="M74 85H170" stroke="#7C3AED" stroke-width="2"/>
-    <circle cx="63" cy="79" r="5" fill="#00E5FF"/>
-    <circle cx="82" cy="79" r="5" fill="#7C3AED"/>
-    <circle cx="101" cy="79" r="5" fill="#EC4899"/>
+  <!-- === SCANLINE EFFECT === -->
+  <rect x="0" y="0" width="1600" height="60" fill="url(#scanline-grad)" class="scanline-bar"/>
+
+  <!-- === DATA STREAM PARTICLES === -->
+  <circle cx="1420" cy="0" r="1" fill="#00E5FF" opacity="0.4" class="data-particle-1"/>
+  <circle cx="1440" cy="0" r="1.5" fill="#7C3AED" opacity="0.3" class="data-particle-2"/>
+  <circle cx="1460" cy="0" r="1" fill="#EC4899" opacity="0.4" class="data-particle-3"/>
+
+  <!-- === CORNER BRACKETS (HUD FRAME) === -->
+  <!-- Top-left -->
+  <g class="corner-bracket">
+    <path d="M40 50 L40 36 L54 36" stroke="#00E5FF" stroke-width="2" fill="none"/>
+    <circle cx="40" cy="36" r="2" fill="#00E5FF"/>
+  </g>
+  <!-- Top-right -->
+  <g class="corner-bracket-delay">
+    <path d="M1560 50 L1560 36 L1546 36" stroke="#EC4899" stroke-width="2" fill="none"/>
+    <circle cx="1560" cy="36" r="2" fill="#EC4899"/>
+  </g>
+  <!-- Bottom-left -->
+  <g class="corner-bracket-delay">
+    <path d="M40 370 L40 384 L54 384" stroke="#7C3AED" stroke-width="2" fill="none"/>
+    <circle cx="40" cy="384" r="2" fill="#7C3AED"/>
+  </g>
+  <!-- Bottom-right -->
+  <g class="corner-bracket">
+    <path d="M1560 370 L1560 384 L1546 384" stroke="#00E5FF" stroke-width="2" fill="none"/>
+    <circle cx="1560" cy="384" r="2" fill="#00E5FF"/>
   </g>
 
-  <g font-family="monospace">
-    <text x="74" y="154" fill="#64748B" font-size="18" letter-spacing="4">PROFILE // HARI-0804</text>
-    <text x="74" y="218" fill="white" font-size="58" font-weight="700" letter-spacing="1">HARIPRAKASH A</text>
-    <text x="78" y="258" fill="#7DD3FC" font-size="20" letter-spacing="3">FULL-STACK • AI AGENTS • IoT • SYSTEMS</text>
-    <text x="78" y="304" fill="#CBD5E1" font-size="16">Engineering useful systems at the intersection of software, intelligence and hardware.</text>
+  <!-- === DECORATIVE LINES === -->
+  <g opacity="0.7">
+    <path d="M60 70H220" stroke="#00E5FF" stroke-width="2.5"/>
+    <path d="M60 80H160" stroke="#7C3AED" stroke-width="1.5"/>
+    <circle cx="55" cy="74" r="4" fill="#00E5FF" filter="url(#blur-sm)"/>
+    <circle cx="55" cy="74" r="3" fill="#00E5FF"/>
+    <circle cx="70" cy="74" r="3" fill="#7C3AED"/>
+    <circle cx="85" cy="74" r="3" fill="#EC4899"/>
   </g>
 
-  <g font-family="monospace" font-size="13">
-    <rect x="1046" y="76" width="456" height="212" rx="18" fill="#020617" fill-opacity="0.72" stroke="#334155"/>
-    <text x="1080" y="112" fill="#00E5FF">SYSTEM STATUS</text>
-    <text x="1080" y="146" fill="#94A3B8">BUILD</text>
-    <text x="1180" y="146" fill="#22C55E">● ONLINE</text>
-    <text x="1080" y="176" fill="#94A3B8">MODE</text>
-    <text x="1180" y="176" fill="#A78BFA">SHIP / ITERATE</text>
-    <text x="1080" y="206" fill="#94A3B8">DOMAIN</text>
-    <text x="1180" y="206" fill="#F472B6">AI + FULL STACK</text>
-    <text x="1080" y="236" fill="#94A3B8">RUNTIME</text>
-    <text x="1180" y="236" fill="#7DD3FC">CLOUD / IoT</text>
-    <text x="1080" y="266" fill="#94A3B8">SIGNAL</text>
-    <text x="1180" y="266" fill="#F8FAFC">LEARN → BUILD → VERIFY</text>
+  <!-- === WAVE PATH === -->
+  <path d="M50 300C270 260 360 355 600 295C810 238 920 115 1140 180C1320 235 1380 300 1550 240" stroke="url(#glow-grad)" stroke-width="3" opacity="0.3" filter="url(#blur-md)"/>
+  <path d="M50 300C270 260 360 355 600 295C810 238 920 115 1140 180C1320 235 1380 300 1550 240" stroke="url(#line-grad)" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- === RADAR PING === -->
+  <g transform="translate(1520, 380)">
+    <circle cx="0" cy="0" r="3" fill="#00E5FF" opacity="0.8"/>
+    <circle cx="0" cy="0" r="3" stroke="#00E5FF" stroke-width="1" fill="none" class="radar-ring"/>
+    <circle cx="0" cy="0" r="3" stroke="#00E5FF" stroke-width="1" fill="none" class="radar-ring-delay"/>
   </g>
 
+  <!-- === MAIN TEXT CONTENT === -->
+  <g font-family="'Courier New', 'Consolas', monospace">
+    <!-- Subtitle / file path -->
+    <text x="66" y="148" fill="#64748B" font-size="16" letter-spacing="5" class="flicker-text">PROFILE // HARI-0804 // v3.0</text>
+
+    <!-- Name with glow -->
+    <text x="66" y="220" fill="#F8FAFC" font-size="60" font-weight="700" letter-spacing="2" class="name-glow">HARIPRAKASH A</text>
+
+    <!-- Role tagline -->
+    <text x="70" y="260" fill="#7DD3FC" font-size="19" letter-spacing="4" filter="url(#blur-sm)">FULL-STACK • AI AGENTS • IoT • SYSTEMS</text>
+    <text x="70" y="260" fill="#7DD3FC" font-size="19" letter-spacing="4">FULL-STACK • AI AGENTS • IoT • SYSTEMS</text>
+
+    <!-- Description -->
+    <text x="70" y="302" fill="#CBD5E1" font-size="15">Engineering useful systems at the intersection of software, intelligence and hardware.</text>
+
+    <!-- Typing cursor -->
+    <rect x="730" y="288" width="10" height="18" fill="#00E5FF" class="cursor-blink"/>
+  </g>
+
+  <!-- === HUD STATUS PANEL === -->
+  <g font-family="'Courier New', 'Consolas', monospace" font-size="13">
+    <!-- Panel background -->
+    <rect x="1040" y="68" width="480" height="230" rx="16" fill="#050510" fill-opacity="0.82" stroke="#1E293B" stroke-opacity="0.6"/>
+    <rect x="1040" y="68" width="480" height="230" rx="16" fill="none" stroke="url(#hud-border)" stroke-opacity="0.3"/>
+
+    <!-- Panel header line -->
+    <line x1="1060" y1="100" x2="1500" y2="100" stroke="#1E293B" stroke-width="1"/>
+
+    <!-- Header -->
+    <text x="1070" y="92" fill="#00E5FF" font-size="14" letter-spacing="3">◆ SYSTEM STATUS</text>
+    <circle cx="1490" cy="86" r="4" class="status-dot"/>
+    <text x="1502" y="91" fill="#22C55E" font-size="11">LIVE</text>
+
+    <!-- Status rows -->
+    <text x="1070" y="130" fill="#64748B">BUILD</text>
+    <circle cx="1180" cy="126" r="4" class="status-dot"/>
+    <text x="1192" y="130" fill="#22C55E" class="flicker-text">● ONLINE</text>
+
+    <text x="1070" y="160" fill="#64748B">MODE</text>
+    <text x="1180" y="160" fill="#A78BFA">SHIP / ITERATE</text>
+
+    <text x="1070" y="190" fill="#64748B">DOMAIN</text>
+    <text x="1180" y="190" fill="#F472B6">AI + FULL STACK</text>
+
+    <text x="1070" y="220" fill="#64748B">RUNTIME</text>
+    <text x="1180" y="220" fill="#7DD3FC">CLOUD / IoT / EDGE</text>
+
+    <text x="1070" y="250" fill="#64748B">SIGNAL</text>
+    <text x="1180" y="250" fill="#F8FAFC">LEARN → BUILD → VERIFY</text>
+
+    <text x="1070" y="278" fill="#64748B">UPTIME</text>
+    <text x="1180" y="278" fill="#22C55E">99.9% — ALWAYS ON</text>
+  </g>
+
+  <!-- === DECORATIVE INDICATORS === -->
   <g fill="#00E5FF">
-    <circle cx="1514" cy="62" r="3"/>
-    <circle cx="1530" cy="62" r="3" opacity="0.65"/>
-    <circle cx="1546" cy="62" r="3" opacity="0.35"/>
+    <circle cx="1504" cy="56" r="3"/>
+    <circle cx="1520" cy="56" r="3" opacity="0.6"/>
+    <circle cx="1536" cy="56" r="3" opacity="0.3"/>
   </g>
 
-  <rect x="74" y="348" width="760" height="2" fill="url(#line)"/>
-  <text x="74" y="375" fill="#64748B" font-family="monospace" font-size="13" letter-spacing="2">// BUILDING FOR THE NEXT LAYER</text>
+  <!-- === BOTTOM ACCENT LINE === -->
+  <rect x="66" y="348" width="780" height="2" fill="url(#line-grad)" class="accent-line" rx="1"/>
+
+  <!-- === BOTTOM TEXT === -->
+  <text x="66" y="375" fill="#475569" font-family="'Courier New', 'Consolas', monospace" font-size="12" letter-spacing="3">// BUILDING FOR THE NEXT LAYER — SYSTEMS THAT ACT, VERIFY AND SHIP</text>
+
+  <!-- === HEX PATTERN DECORATION === -->
+  <g opacity="0.15" transform="translate(1350, 340)">
+    <polygon points="0,-12 10,-6 10,6 0,12 -10,6 -10,-6" stroke="#7C3AED" fill="none" stroke-width="0.8"/>
+    <polygon points="22,-12 32,-6 32,6 22,12 12,6 12,-6" stroke="#7C3AED" fill="none" stroke-width="0.8"/>
+    <polygon points="11,9 21,15 21,27 11,33 1,27 1,15" stroke="#7C3AED" fill="none" stroke-width="0.8"/>
+  </g>
 </svg>
