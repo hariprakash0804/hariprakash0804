@@ -1,698 +1,591 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌊 ANIMATED HEADER -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:06B6D4,50:8B5CF6,75:D946EF,100:06B6D4&height=220&section=header&text=HARIPRAKASH%20A&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=%F0%9F%9A%80%20Full-Stack%20Developer%20%7C%20AI-Agent%20Builder%20%7C%20IoT%20Enthusiast&descAlignY=55&descSize=17&descColor=E0E0E0" width="100%"/>
-
-<!-- ✨ ENHANCED TYPING EFFECT — more lines, bigger canvas -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=720&height=50&lines=%E2%9A%A1+Building+at+the+edge+of+what+is+possible...;%F0%9F%A7%A0+AI-Agent+Assisted+Development+Advocate;%F0%9F%8C%8D+World+Record+Holder+%7C+3x+Research+Presenter;%F0%9F%8E%93+B.Tech+IT+%E2%80%94+Class+of+2026+%7C+Salem%2C+Tamil+Nadu;%F0%9F%94%A5+Full-Stack+%7C+AI%2FML+%7C+IoT+Engineer;%F0%9F%8C%9F+Dreaming+Big+%E2%80%94+Shipping+Bigger;%F0%9F%8E%B5+Code+by+Day+%7C+Tamil+Beats+by+Night;%F0%9F%A4%96+I+build+AI+agents+%E2%80%94+and+fact-check+them+too" alt="Typing SVG" />
+<a href="https://github.com/hariprakash0804">
+  <img src="./assets/hud-banner.svg" width="100%" alt="Hariprakash A futuristic developer profile banner" />
 </a>
 
 <br/>
 
-<!-- BADGES ROW -->
-[![Profile Views](https://komarev.com/ghpvc/?username=hariprakash0804&label=Profile%20Views&color=8B5CF6&style=for-the-badge)](https://github.com/hariprakash0804)
-[![GitHub followers](https://img.shields.io/github/followers/hariprakash0804?logo=github&style=for-the-badge&color=06B6D4&labelColor=0D1117)](https://github.com/hariprakash0804?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/hariprakash0804?logo=github&style=for-the-badge&color=D946EF&labelColor=0D1117)](https://github.com/hariprakash0804?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-plum-38.vercel.app)
+<img
+  src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=44&lines=%3E+BUILDING+SYSTEMS+THAT+ACT%2C+VERIFY%2C+AND+SHIP;%3E+AI+AGENTS+%7C+FULL-STACK+%7C+IoT;%3E+IDEA+%E2%86%92+ARCHITECTURE+%E2%86%92+PRODUCTION;%3E+CODE.+MEASURE.+ITERATE.+REPEAT."
+  alt="Typing introduction"
+/>
 
-<!-- 🆕 OPEN TO WORK ANIMATED BADGE -->
 <br/>
 
-![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Full--Stack%20%7C%20AI%20Engineer-brightgreen?style=for-the-badge&labelColor=0D1117)
-![Made in India](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3%20Made%20in-Tamil%20Nadu%2C%20India-FF9933?style=for-the-badge&labelColor=0D1117)
+[![Profile Views](https://komarev.com/ghpvc/?username=hariprakash0804&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge)](https://github.com/hariprakash0804)
+[![Followers](https://img.shields.io/github/followers/hariprakash0804?style=for-the-badge&logo=github&logoColor=white&color=00E5FF&labelColor=050816)](https://github.com/hariprakash0804?tab=followers)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-00E5FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=050816)](https://portfolio-eight-plum-38.vercel.app)
+[![Open to Work](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-22C55E?style=for-the-badge&labelColor=050816)](https://github.com/hariprakash0804)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 👋 ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Awal/Tarikul-Islam-Awal/main/Assets/handshake.gif" width="40px"/> &nbsp;About Me
+[`01` IDENTITY](#-01--identity-matrix)　[`02` STACK](#-02--command-center)　[`03` BUILDS](#-03--active-builds)　[`04` WINS](#-07--research--leadership--wins)　[`05` TELEMETRY](#-10--github-telemetry)
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/hasherezade/hasherezade/main/gifs/mimi_3.gif"/>
+</div>
+
+## ◉ `01` — Identity Matrix
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### `WHO_AM_I`
+
+> **Engineer. Builder. Experimenter.**
+
+I build across **full-stack engineering, AI/ML, automation, IoT and embedded systems**, with a bias toward products that move from concept to something people can actually use.
+
+The interesting work lives in the middle: architecture, APIs, data, automation, interfaces, hardware, observability and the tiny bugs humanity continues to describe as "edge cases."
 
 ```yaml
-name: Hariprakash A
-located_in: Salem, Tamil Nadu, India 📍
-education:
-  degree: B.Tech in Information Technology
-  minor: Sensor Technologies & IoT
-  institution: K.S.R. Institute for Engineering & Technology
-  graduation: 2026
+identity:
+  name: Hariprakash A
+  base: Salem, Tamil Nadu, India
+  degree: B.Tech Information Technology
 
-career_objective: >
-  To be a motivated and detail-oriented engineer
-  with a strong foundation in all aspects of a
-  problem and to find a better solution.
+focus:
+  - Full-Stack Engineering
+  - AI Agents & RAG
+  - Automation
+  - IoT & Embedded Systems
 
-languages_spoken: Tamil | English | Kannada (Native)
-hobbies: Reading Books | Listening to Music | Exploring Tech
-interests: IoT | Cybersecurity | AI/ML | Full Stack Development
-
-currently_building:
-  - Topic Intelligence Platform (n8n automation)
-  - AI Coding Agent Verification Framework
-
-open_to: Full-Stack / AI-Agent-Assisted Developer roles
+current_builds:
+  - Topic Intelligence Platform
+  - AI Agent Verification Framework
 ```
 
-<br clear="right"/>
+</td>
+<td width="38%" valign="top">
 
-> *"I build things that live at the edge of what's possible."*
+### `CURRENT_SIGNAL`
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 QUICK METRICS DASHBOARD -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;Quick Metrics
+```text
+┌─────────────────────────┐
+│  SYSTEM       ONLINE    │
+│  MODE         SHIP      │
+│  DOMAIN       AI / FS   │
+│  HARDWARE     IoT       │
+│  CLOUD        ACTIVE    │
+│  LEARNING     CONTINUOUS│
+└─────────────────────────┘
+```
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/10+-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" /><br/>
-<sub><b>Projects Built</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/15+-06B6D4?style=for-the-badge&logo=layers&logoColor=white" /><br/>
-<sub><b>Technologies</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/3-D946EF?style=for-the-badge&logo=files&logoColor=white" /><br/>
-<sub><b>Papers Presented</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/5+-F59E0B?style=for-the-badge&logo=award&logoColor=white" /><br/>
-<sub><b>Awards</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/10+-10B981?style=for-the-badge&logo=shield-check&logoColor=white" /><br/>
-<sub><b>Certifications</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/1-EF4444?style=for-the-badge&logo=globe&logoColor=white" /><br/>
-<sub><b>World Record</b></sub>
-</td>
-</tr>
-</table>
+![Focus](https://img.shields.io/badge/FOCUS-AI%20%2B%20SYSTEMS-7C3AED?style=flat-square)
+![Build](https://img.shields.io/badge/BUILD-PRODUCTION-00E5FF?style=flat-square)
+![Learn](https://img.shields.io/badge/LEARN-ALWAYS-22C55E?style=flat-square)
 
 </div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎯 SPECIALIZATIONS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🎯 &nbsp;What I Specialize In
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-**🎨 Frontend**
-<br/>
-<sub>React · Next.js · TypeScript<br/>Tailwind · Framer Motion · GSAP</sub>
-
-</td>
-<td align="center" width="25%">
-
-**⚙️ Backend**
-<br/>
-<sub>Node.js · Express · Python<br/>FastAPI · tRPC · Socket.io</sub>
-
-</td>
-<td align="center" width="25%">
-
-**🧠 AI / ML**
-<br/>
-<sub>RAG Pipelines · FAISS · LLMs<br/>Claude · HuggingFace · n8n</sub>
-
-</td>
-<td align="center" width="25%">
-
-**🔌 IoT & Embedded**
-<br/>
-<sub>ESP32 · Arduino · KiCad<br/>Sensor Integration · Embedded C</sub>
 
 </td>
 </tr>
 </table>
 
-</div>
+> **Build useful things. Make them reliable. Then make them beautiful.**
 
-<br/>
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️ TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;Tech Stack & Tools
+## ◉ `02` — Command Center
 
 <div align="center">
 
-### 💻 Languages & Core
+<table>
+<tr>
+<td align="center" width="20%"><strong>10+</strong><br/>Projects</td>
+<td align="center" width="20%"><strong>15+</strong><br/>Technologies</td>
+<td align="center" width="20%"><strong>3</strong><br/>Research Presentations</td>
+<td align="center" width="20%"><strong>5+</strong><br/>Awards</td>
+<td align="center" width="20%"><strong>01</strong><br/>World Record</td>
+</tr>
+</table>
 
+</div>
+
+<details>
+<summary><b>▣ Open mission profile</b></summary>
+
+<br/>
+
+| Signal | Current State |
+|---|---|
+| **Primary lane** | Full-Stack + AI Systems |
+| **Secondary lane** | IoT + Embedded Engineering |
+| **Build philosophy** | Useful → Reliable → Beautiful |
+| **Favorite challenge** | Turning messy ideas into structured systems |
+| **Operating loop** | Learn → Build → Measure → Verify → Ship |
+
+</details>
+
+---
+
+## ◉ `03` — Core Capabilities
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center">
+
+### ⚡ FRONTEND
+
+React · Next.js · TypeScript  
+Tailwind · Three.js  
+Framer Motion · GSAP
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### ⚙️ BACKEND
+
+Node.js · Express  
+Python · FastAPI  
+REST · Socket.io · tRPC
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### 🧠 AI / AUTOMATION
+
+RAG · FAISS · LLMs  
+LangChain · LangGraph  
+Groq · n8n · AI Agents
+
+</td>
+<td width="25%" valign="top" align="center">
+
+### 🔌 IoT / EMBEDDED
+
+ESP32 · Arduino  
+Embedded C · KiCad  
+Sensors · Hardware Interfaces
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◉ `04` — Technology Matrix
+
+<details>
+<summary><b>🧬 Expand the stack</b></summary>
+
+<br/>
+
+### `LANGUAGES`
+
+<div align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,c,html,css&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,c,html,css&perline=7&theme=dark" alt="Programming languages"/>
 </a>
+</div>
 
+### `FRONTEND / MOBILE`
+
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,threejs&perline=5&theme=dark" alt="Frontend stack"/>
+</a>
 <br/><br/>
-
-### 🎨 Frontend & Mobile
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,threejs&perline=5&theme=dark" />
-</a>
-
-<br/>
-
-![React Native](https://img.shields.io/badge/React_Native-8B5CF6?style=for-the-badge&logo=react&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-
-### ⚙️ Backend, APIs & Data
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=3&theme=dark" />
-</a>
-
-<br/>
-
-![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🗄️ Databases & Storage
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,redis&perline=3&theme=dark" />
-</a>
-
-<br/>
-
-![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
-![Meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-
-### 🧠 AI / ML / Automation
-
-![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude_LLM-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=python&logoColor=white)
-
-### 🔌 IoT & Embedded
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-
-### 🤖 Dev Environment & Tools
-
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,vercel,postman&perline=6&theme=dark" />
-</a>
-
-<br/>
-
-![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-8B5CF6?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-06B6D4?style=for-the-badge&logo=terminal&logoColor=white)
-
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP"/>
 </div>
 
-<br/>
+### `BACKEND / DATABASE / INFRA`
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,redis,docker&perline=7&theme=dark" alt="Backend and infrastructure"/>
+</a>
+<br/><br/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+<img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ"/>
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
+<img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white" alt="Meilisearch"/>
+</div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🎓 EDUCATION TIMELINE -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+### `AI / ML / AUTOMATION`
 
-## 🎓 &nbsp;Education
+<div align="center">
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="RAG"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logo=python&logoColor=white" alt="LangGraph"/>
+</div>
+
+### `TOOLS / DELIVERY`
+
+<div align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,vercel,postman&perline=6&theme=dark" alt="Developer tools"/>
+</a>
+</div>
+
+</details>
+
+---
+
+## ◉ `05` — Active Builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛰️ Topic Intelligence Platform
+
+**Signal in → intelligence out**
+
+```text
+RSS / News APIs
+      ↓
+Deduplication
+      ↓
+LLM Summarization
+      ↓
+Slack + Email
+```
+
+Multi-source intelligence pipeline built around **n8n, Groq and structured automation**.
+
+`n8n` `Groq` `Slack` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 AI Agent Verification Framework
+
+**Trust, but verify the robot.**
+
+```text
+AI Agent
+   ↓
+Real file changes
+   ↓
+Diff capture
+   ↓
+Claim vs. reality
+   ↓
+Verification
+```
+
+Tooling concept for detecting **phantom edits, misleading test claims and other agent-side optimism**.
+
+`Python` `Git` `VS Code` `Agents`
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◉ `06` — Featured Projects
+
+> **Selected signal, not the entire warehouse.**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ [LegalBuddy AI](https://legalbuddy-frontend-eta.vercel.app)
+
+Multilingual legal-aid conversational platform using **RAG-based retrieval**, dense vector search and context-aware guidance grounded in Indian legal material.
+
+`React` `FastAPI` `MySQL` `FAISS` `OpenRouter` `Claude`
+
+[![Live](https://img.shields.io/badge/↗%20LIVE-00E5FF?style=for-the-badge&labelColor=050816)](https://legalbuddy-frontend-eta.vercel.app)
+[![Code](https://img.shields.io/badge/⌘%20CODE-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=050816)](https://github.com/hariprakash0804/legalbuddy-frontend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🍴 [Digital Canteen](https://github.com/hariprakash0804/Digital-Canteen)
+
+Campus food-ordering system with **student, shop-owner and admin consoles**, digital-coin wallet and vendor inventory management.
+
+`React` `Tailwind` `Node.js` `Express` `MongoDB`
+
+[![Source](https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprakash0804/Digital-Canteen)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💞 [Heaven Match](https://github.com/hariprakash0804/Heaven-Match)
+
+Full-stack matchmaking platform with responsive UI, authentication and profile management.
+
+`React` `Tailwind` `MySQL`
+
+[![Source](https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprakash0804/Heaven-Match)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [Tic-Tac-Toe](https://github.com/hariprakash0804/tictactoe)
+
+Browser game focused on clean JavaScript, DOM manipulation, state management and responsive UI.
+
+`HTML` `CSS` `JavaScript`
+
+[![Source](https://img.shields.io/badge/VIEW%20SOURCE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprakash0804/tictactoe)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◉ `07` — Research / Leadership / Wins
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🌍
+**WORLD RECORD**
+
+Asian Book of World Records  
+TanMillets awareness initiative
+
+</td>
+<td align="center" width="25%">
+
+### 🏅
+**TEAM LEAD**
+
+Smart India Hackathon  
+AI-powered agriculture solution
+
+</td>
+<td align="center" width="25%">
+
+### 📄
+**3× RESEARCH**
+
+Presented work at  
+Kalasalingam · KIT · KSR
+
+</td>
+<td align="center" width="25%">
+
+### 🗣️
+**PRESIDENT**
+
+Kamban Tamil Mandram  
+Culture & literature initiatives
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## ◉ `08` — Education Timeline
+
+```text
+2022 ─────────────────────────────────────────────────────────── 2026
+  │                                                              │
+  ├─ B.Tech — Information Technology                             │
+  │  K.S.R. Institute for Engineering & Technology                │
+  │                                                              │
+  ├─ Minor: Sensor Technologies & IoT                            │
+  │                                                              │
+  └─ Core: DSA · OOP · DBMS · Web · IoT · Embedded · ML          │
+                                                                 ▼
+                                                            DEPLOY NEXT
 ```
+
+---
+
+## ◉ `09` — 2026 Mission Control
+
+<div align="center">
+
+| Cycle | Objective | Signal |
+|:---:|:---|:---:|
+| `Q1` | LangGraph · LangSmith · Google Cloud · Dataflow | ✅ COMPLETE |
+| `Q2` | Advanced n8n · React Native · Monorepos | ✅ COMPLETE |
+| `Q3` | System Design · Apache Beam · Interview Readiness | 🔄 ACTIVE |
+| `Q4` | Cloud Certifications · Production AI Agents | 🎯 TARGET |
+
+</div>
+
+### `NOW / NEXT / SHIP`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**NOW**  `Q3`
+
+System Design · Apache Beam · Interview Readiness
+
+</td>
+<td width="33%" valign="top">
+
+**NEXT**  `Q4`
+
+Cloud Certifications · Production AI Agents
+
+</td>
+<td width="33%" valign="top">
+
+**SHIP**  `ALWAYS`
+
+Build → Verify → Measure → Iterate
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◉ `10` — GitHub Telemetry
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hariprakash0804&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=CBD5E1&ring_color=7C3AED" width="48%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprakash0804&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=CBD5E1" width="37%" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=hariprakash0804&theme=dark&hide_border=true&background=050816&ring=7C3AED&fire=00E5FF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B" width="72%" alt="GitHub streak"/>
+
+<a href="https://github.com/hariprakash0804">
+  <img src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/profile-3d-contrib/profile-customize.svg" width="96%" alt="3D contribution graph"/>
+</a>
+
+</div>
+
+---
+
+## ◉ `11` — Recent Activity Stream
+
+<!--RECENT_ACTIVITY:start-->
+<!-- This section is updated automatically by .github/workflows/recent-activity.yml -->
+<!--RECENT_ACTIVITY:end-->
+
+---
+
+## ◉ `12` — Contribution Core
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║  CONTRIBUTION CORE                                             ║
+║  ─────────────────────────────────────────────────────────────  ║
+║  [ LIVE ACTIVITY MATRIX ]        [ SNAKE ENGINE : ONLINE ]     ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+<p>
+  <img src="https://img.shields.io/badge/ENGINE-GITHUB_ACTIVITY-00E5FF?style=for-the-badge&labelColor=050816" alt="GitHub activity engine"/>
+  <img src="https://img.shields.io/badge/MODE-NEON_TRACKING-7C3AED?style=for-the-badge&labelColor=050816" alt="Neon tracking mode"/>
+  <img src="https://img.shields.io/badge/SYNC-12H-22C55E?style=for-the-badge&labelColor=050816" alt="Twelve hour sync"/>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/output/github-snake.svg" width="96%" alt="Animated GitHub contribution snake" />
+</picture>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**◈ FEED**
+
+Commit history
+
+</td>
+<td align="center" width="33%">
+
+**◈ VECTOR**
+
+Contribution path
+
+</td>
+<td align="center" width="33%">
+
+**◈ SIGNAL**
+
+Activity intensity
+
+</td>
+</tr>
+</table>
+
+<sub>Generated automatically from GitHub contribution data via Platane/snk.</sub>
+
+</div>
+
+---
+
+## ◉ `13` — Proof of Work
+
+<div align="center">
+
+`AI / RAG`　`FULL-STACK`　`AUTOMATION`　`IoT / EMBEDDED`
+
+**Selected repos first. Dynamic telemetry second. Everything else lives in the code.**
+
+</div>
+
+---
+
+## ◉ `14` — Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariprakash-a-55bab6261)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-plum-38.vercel.app)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariprakashanbarasan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprakash0804)
+[![Resume](https://img.shields.io/badge/RESUME-00E5FF?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1T09Hg_cIUDFJqzd46WeuK-X46eoSoJVL/view?usp=sharing)
+
+<br/>
+
+```text
 ┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  🎓  B.Tech in Information Technology          (2022 — 2026)    │
-│  📍  K.S.R. Institute for Engineering & Technology               │
-│  📖  Minor: Sensor Technologies & IoT                            │
-│                                                                  │
-│  ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─  │
-│                                                                  │
-│  📚  Key Coursework:                                             │
-│      ► Data Structures & Algorithms                              │
-│      ► Object-Oriented Programming                               │
-│      ► Database Management Systems                               │
-│      ► Web Technologies & Full Stack Development                 │
-│      ► IoT & Embedded Systems                                    │
-│      ► Machine Learning & AI Fundamentals                        │
-│                                                                  │
+│  EMAIL      hariprakashanbarasan@gmail.com                       │
+│  LOCATION   Salem, Tamil Nadu, India                             │
+│  LANGUAGES  Tamil · English · Kannada                            │
+│  INTO       Books · Music · Technology                            │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🔭 CURRENTLY WORKING ON -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🔭 &nbsp;Currently Working On
+---
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+### `> SYSTEM MESSAGE`
 
-### 🗞️ Topic Intelligence Platform
+**Build relentlessly. Verify everything. Keep learning.**
 
-> Automated multi-source news pipeline built in **n8n**
-
-```
-📥 Google News RSS, GNews, The Guardian, NewsData.io
-  ↓
-🔄 Deduplication via n8n Data Tables
-  ↓
-🧠 Summarization with Groq LLM
-  ↓
-📤 Delivery to Slack & Email
-```
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-
-</td>
-<td width="50%">
-
-### 🧪 AI Agent Verification Framework
-
-> Catching phantom file edits and false "tests passing" claims
-
-```
-🤖 AI Agent generates code changes
-  ↓
-🔍 Framework captures real file diffs
-  ↓
-⚖️ Compare agent claims vs actual changes
-  ↓
-✅ Trust AND Verify
-```
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🆕 RECENT ACTIVITY — auto-updated via Readme-Workflows/recent-activity      -->
-<!-- Live proof-of-work: refreshed automatically, not a static claim            -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## ⚡ &nbsp;Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [hariprakash0804/hariprakash0804](https://github.com/hariprakash0804/hariprakash0804)<br>
-2. ⬆️ Pushed undefined commit(s) to [hariprakash0804/hariprakash0804](https://github.com/hariprakash0804/hariprakash0804)<br>
-3. ⬆️ Pushed undefined commit(s) to [hariprakash0804/hariprakash0804](https://github.com/hariprakash0804/hariprakash0804)<br>
-4. ⬆️ Pushed undefined commit(s) to [hariprakash0804/hariprakash0804](https://github.com/hariprakash0804/hariprakash0804)<br>
-5. ⬆️ Pushed undefined commit(s) to [hariprakash0804/Autonomous-Competitive-Intelligence-Agent-Network](https://github.com/hariprakash0804/Autonomous-Competitive-Intelligence-Agent-Network)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 💼 FEATURED PROJECTS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 💼 &nbsp;Featured Projects
-
-<div align="center">
-
-<!-- PROJECT 1 -->
-<table>
-<tr>
-<td width="100%">
-
-### ⚖️ LegalBuddy AI &nbsp; [![Live](https://img.shields.io/badge/🔗_Live-06B6D4?style=flat-square)](https://legalbuddy-frontend-eta.vercel.app) [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hariprakash0804/legalbuddy-frontend)
-
-> Multilingual legal-aid conversational platform delivering context-aware guidance grounded in **Indian statutes**, backed by a **RAG pipeline** over dense vector search (FAISS). **Presented as a research paper** at Kalasalingam Academy of Research & Education.
-
-```
-User Query (Any Indian Language)  →  Multilingual NLP  →  FAISS Vector Search  →  Context-Aware Legal Guidance
-```
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT 2 -->
-<table>
-<tr>
-<td width="100%">
-
-### 🍴 Digital Canteen &nbsp; [![Code](https://img.shields.io/badge/📦_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hariprakash0804/Digital-Canteen)
-
-> Campus food-ordering platform with **three role-based consoles** (student, shop owner, admin), a custom **digital-coin wallet** system, and dynamically-provisioned per-vendor inventory.
-
-```
-Student Console  ←→  Shop Owner Console  ←→  Admin Console
-      ↕                    ↕                      ↕
-  Order Food          Manage Menu           Monitor Platform
-  Coin Wallet         Inventory              User Management
-```
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT 3 & 4 -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💞 Heaven Match &nbsp; [![Code](https://img.shields.io/badge/📦-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hariprakash0804/Heaven-Match)
-
-Full-stack **matchmaking platform** with responsive interface, secure auth, and end-to-end profile management.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Tic-Tac-Toe &nbsp; [![Code](https://img.shields.io/badge/📦-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hariprakash0804/tictactoe)
-
-Interactive browser-based game with **core JS concepts** — game logic, DOM manipulation & responsive UI.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 ACHIEVEMENTS -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 &nbsp;Achievements & Leadership
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/🌍-World%20Record-FFD700?style=for-the-badge&labelColor=0D1117" />
-<br/><br/>
-
-**Asian Book of World Records**
-<br/>
-<sub>TanMillets initiative for<br/>spreading millet awareness</sub>
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/🏅-Team%20Lead-C0C0C0?style=for-the-badge&labelColor=0D1117" />
-<br/><br/>
-
-**Smart India Hackathon**
-<br/>
-<sub>Led team to build AI-powered<br/>agriculture solution</sub>
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/📄-3x%20Research-CD7F32?style=for-the-badge&labelColor=0D1117" />
-<br/><br/>
-
-**Research Presenter**
-<br/>
-<sub>Papers at Kalasalingam, KIT<br/>& KSR College of Engineering</sub>
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://img.shields.io/badge/🗣️-President-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-<br/><br/>
-
-**Kamban Tamil Mandram**
-<br/>
-<sub>Led cultural and literary<br/>activities promoting Tamil</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🆕 2026 LEARNING ROADMAP -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🧭 &nbsp;2026 Learning Roadmap
-
-<div align="center">
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Q1 ✅  LangGraph + LangSmith  |  Google Cloud & Dataflow
-  Q2 ✅  n8n Advanced Pipelines |  React Native Monorepos
-  Q3 🔄  System Design (10 LPA+ Prep)  |  Apache Beam
-  Q4 🎯  Cloud Certifications   |  Production AI Agents
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-![System Design](https://img.shields.io/badge/Learning-System_Design-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Learning-Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Apache Beam](https://img.shields.io/badge/Learning-Apache_Beam-FF6B35?style=for-the-badge&logo=apache&logoColor=white)
-![DSA](https://img.shields.io/badge/Learning-DSA_for_Interviews-10B981?style=for-the-badge&logo=leetcode&logoColor=white)
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB STATS — FIXED with cache_seconds=86400                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-
-<!-- Stats & Languages — served from a committed SVG (see .github/workflows/update-stats-svg.yml) -->
-<!-- rather than hit the shared github-readme-stats.vercel.app endpoint live, which is         -->
-<!-- frequently rate-limited across the thousands of profiles that use it.                     -->
-<p>
-<img src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/stats-cards/github-stats.svg" width="49%" alt="GitHub Stats" />
-<img src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/stats-cards/top-langs.svg" width="35%" alt="Top Languages" />
-</p>
-
-<br/>
-
-<!-- Streak — already working, keeping as-is -->
-<img src="https://streak-stats.demolab.com/?user=hariprakash0804&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=D946EF&currStreakLabel=06B6D4&sideNums=C9D1D9&sideLabels=8B5CF6&dates=565F89" width="70%" alt="GitHub Streak" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&width=750&height=36&lines=Thanks+for+visiting+the+profile.;Let's+build+something+useful.;Vanakkam+%F0%9F%91%8B+from+Tamil+Nadu%2C+India." alt="Footer typing"/>
 
 <br/><br/>
 
-<!-- 🆕 3D CONTRIBUTION GRID — generated via .github/workflows/3d-contrib.yml    -->
-<!-- settings.json has a custom "type" with no fileName, so the action        -->
-<!-- outputs a single file: profile-3d-contrib/profile-customize.svg          -->
-<img alt="3D Contribution Grid" src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/profile-3d-contrib/profile-customize.svg?raw=true" width="95%" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariprakash0804&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=D946EF&area_color=8B5CF6&area=true&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Activity%20Graph" width="95%" alt="Activity Graph"/>
-
-</div>
-
-<br/>
-
-<!-- Snake Animation -->
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌐 CONNECT -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🤝 &nbsp;Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariprakash-a-55bab6261)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-eight-plum-38.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariprakashanbarasan@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hariprakash0804)
-[![Resume](https://img.shields.io/badge/Resume-06B6D4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1T09Hg_cIUDFJqzd46WeuK-X46eoSoJVL/view?usp=sharing)
-
-<br/>
-
-### 📬 Quick Contact
-
-<table>
-<tr>
-<td align="center">📧</td>
-<td><b>hariprakashanbarasan@gmail.com</b></td>
-</tr>
-<tr>
-<td align="center">📱</td>
-<td><b>+91 9361326233</b></td>
-</tr>
-<tr>
-<td align="center">🌐</td>
-<td><b>Tamil | English | Kannada (Native)</b></td>
-</tr>
-<tr>
-<td align="center">📍</td>
-<td><b>Salem, Tamil Nadu, India</b></td>
-</tr>
-<tr>
-<td align="center">❤️</td>
-<td><b>Reading Books | Listening to Music | Exploring Tech</b></td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ⚡ FUN FACTS & FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-### ⚡ Fun Facts
-
-<table>
-<tr>
-<td>🌾</td>
-<td>I hold a <b>World Record</b> for spreading millet awareness</td>
-</tr>
-<tr>
-<td>📄</td>
-<td>I've presented research at <b>3 different institutions</b></td>
-</tr>
-<tr>
-<td>🧪</td>
-<td>I validate AI agents because <b>trust needs verification</b></td>
-</tr>
-<tr>
-<td>🗣️</td>
-<td>I led cultural activities as <b>Tamil Mandram President</b></td>
-</tr>
-<tr>
-<td>🎵</td>
-<td>I code best while <b>listening to Tamil film music</b></td>
-</tr>
-<tr>
-<td>📚</td>
-<td>I believe in <b>learning something new every single day</b></td>
-</tr>
-<tr>
-<td>🤖</td>
-<td>I once caught an AI agent <b>lying about its own file edits</b></td>
-</tr>
-</table>
-
-<br/>
-
-<!-- 🆕 ANIMATED OUTRO TYPING — enhanced with more lines -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=550&height=45&lines=Thanks+for+stopping+by!+%F0%9F%99%8F;Let+us+build+something+incredible+%F0%9F%9A%80;Feel+free+to+connect+%F0%9F%92%AC;Vanakkam+%F0%9F%A4%9D+%E2%80%94+from+Tamil+Nadu%2C+India" alt="Outro" />
-</a>
-
-<br/><br/>
-
-<!-- 🆕 MULTI-LAYER FOOTER — egg type for extra visual flair -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:8B5CF6,100:0D1117&height=2&section=footer" width="100%"/>
-
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,25:8B5CF6,50:D946EF,75:8B5CF6,100:06B6D4&height=140&section=footer&animation=twinkling&text=Keep%20Building%20%F0%9F%94%A5&fontSize=22&fontColor=FFFFFF&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:00E5FF,50:7C3AED,75:EC4899,100:050816&height=120&section=footer&animation=twinkling" width="100%" alt="Futuristic footer"/>
 
 </div>
