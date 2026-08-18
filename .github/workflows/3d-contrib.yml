@@ -6,6 +6,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'profile-3d-contrib/**'
 permissions:
   contents: write
 jobs:
@@ -13,38 +15,27 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v4
 
-      - name: Write settings JSON to file
-        run: |
-          cat > settings.json << 'EOF'
-          {
-            "backgroundColor": "#050816",
-            "foregroundColor": "#CBD5E1",
-            "strongColor": "#00E5FF",
-            "weakColor": "#64748B",
-            "radarColor": "#00E5FF",
-            "contribColors": [
-              "#161b22",
-              "#004d40",
-              "#00796b",
-              "#00b0ff",
-              "#00e5ff"
-            ]
-          }
-          EOF
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: hariprakash0804
           MAX_REPOS: 10
-          SETTING_JSON: settings.json
+
+      - name: Apply Cyberpunk Neon Styling to 3D Contrib Grid
+        run: |
+          python scripts/style-3d-contrib.py
 
       - name: Commit & push the generated SVGs
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add -A
-          git diff --staged --quiet || git commit -m "chore: regenerate 3D contribution grid [skip ci]"
+          git add profile-3d-contrib/
+          git diff --staged --quiet || git commit -m "chore: regenerate and style 3D contribution grid [skip ci]"
           git push
