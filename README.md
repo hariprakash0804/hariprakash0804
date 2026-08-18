@@ -32,7 +32,7 @@
 
 [`01` IDENTITY](#-identity-matrix)　·　[`02` COMMAND CENTER](#-command-center)　·　[`03` CAPABILITIES](#-core-capabilities)　·　[`05` BUILDS](#-active-builds)　·　[`06` PROJECTS](#-featured-projects)
 
-[`07` WINS](#-research--leadership--wins)　·　[`08` EDUCATION](#-education-timeline)　·　[`09` MISSION](#-mission-control--2026)　·　[`10` TELEMETRY](#-github-telemetry)　·　[`14` CONNECT](#-connect)
+[`07` WINS](#-research--leadership--wins)　·　[`08` EDUCATION](#-education-timeline)　·　[`09` MISSION](#-mission-control--2026)　·　[`10` TELEMETRY](#-github-telemetry)　·　[`12` CONTRIBUTION](#-contribution-core)　·　[`14` CONNECT](#-connect)
 
 </div>
 
