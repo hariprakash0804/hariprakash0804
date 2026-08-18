@@ -1,0 +1,79 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.48" stop-color="#08112A"/>
+      <stop offset="1" stop-color="#12051F"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#00E5FF"/>
+      <stop offset="0.52" stop-color="#7C3AED"/>
+      <stop offset="0.82" stop-color="#EC4899"/>
+      <stop offset="1" stop-color="#EC4899" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="160" y1="55" x2="1460" y2="345" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00E5FF"/>
+      <stop offset="0.55" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#EC4899"/>
+    </linearGradient>
+    <filter id="blur" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+    <filter id="soft" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#38BDF8" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <rect width="1600" height="420" rx="26" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1598" height="418" rx="25" stroke="#1E293B"/>
+  <rect x="26" y="24" width="1548" height="372" rx="22" fill="url(#grid)"/>
+
+  <ellipse cx="1270" cy="92" rx="290" ry="100" fill="#7C3AED" fill-opacity="0.16" filter="url(#blur)"/>
+  <ellipse cx="360" cy="330" rx="320" ry="90" fill="#00E5FF" fill-opacity="0.12" filter="url(#blur)"/>
+
+  <path d="M55 292C280 255 370 350 604 290C820 235 923 112 1137 176C1318 231 1372 293 1545 234" stroke="url(#glow)" stroke-width="3" opacity="0.45"/>
+  <path d="M55 292C280 255 370 350 604 290C820 235 923 112 1137 176C1318 231 1372 293 1545 234" stroke="url(#line)" stroke-width="1"/>
+
+  <g opacity="0.75">
+    <path d="M74 74H225" stroke="#00E5FF" stroke-width="3"/>
+    <path d="M74 85H170" stroke="#7C3AED" stroke-width="2"/>
+    <circle cx="63" cy="79" r="5" fill="#00E5FF"/>
+    <circle cx="82" cy="79" r="5" fill="#7C3AED"/>
+    <circle cx="101" cy="79" r="5" fill="#EC4899"/>
+  </g>
+
+  <g font-family="monospace">
+    <text x="74" y="154" fill="#64748B" font-size="18" letter-spacing="4">PROFILE // HARI-0804</text>
+    <text x="74" y="218" fill="white" font-size="58" font-weight="700" letter-spacing="1">HARIPRAKASH A</text>
+    <text x="78" y="258" fill="#7DD3FC" font-size="20" letter-spacing="3">FULL-STACK • AI AGENTS • IoT • SYSTEMS</text>
+    <text x="78" y="304" fill="#CBD5E1" font-size="16">Engineering useful systems at the intersection of software, intelligence and hardware.</text>
+  </g>
+
+  <g font-family="monospace" font-size="13">
+    <rect x="1046" y="76" width="456" height="212" rx="18" fill="#020617" fill-opacity="0.72" stroke="#334155"/>
+    <text x="1080" y="112" fill="#00E5FF">SYSTEM STATUS</text>
+    <text x="1080" y="146" fill="#94A3B8">BUILD</text>
+    <text x="1180" y="146" fill="#22C55E">● ONLINE</text>
+    <text x="1080" y="176" fill="#94A3B8">MODE</text>
+    <text x="1180" y="176" fill="#A78BFA">SHIP / ITERATE</text>
+    <text x="1080" y="206" fill="#94A3B8">DOMAIN</text>
+    <text x="1180" y="206" fill="#F472B6">AI + FULL STACK</text>
+    <text x="1080" y="236" fill="#94A3B8">RUNTIME</text>
+    <text x="1180" y="236" fill="#7DD3FC">CLOUD / IoT</text>
+    <text x="1080" y="266" fill="#94A3B8">SIGNAL</text>
+    <text x="1180" y="266" fill="#F8FAFC">LEARN → BUILD → VERIFY</text>
+  </g>
+
+  <g fill="#00E5FF">
+    <circle cx="1514" cy="62" r="3"/>
+    <circle cx="1530" cy="62" r="3" opacity="0.65"/>
+    <circle cx="1546" cy="62" r="3" opacity="0.35"/>
+  </g>
+
+  <rect x="74" y="348" width="760" height="2" fill="url(#line)"/>
+  <text x="74" y="375" fill="#64748B" font-family="monospace" font-size="13" letter-spacing="2">// BUILDING FOR THE NEXT LAYER</text>
+</svg>
