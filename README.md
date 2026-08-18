@@ -583,8 +583,8 @@ Browser game focused on clean JavaScript, DOM manipulation, state management and
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hariprakash0804&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=CBD5E1&ring_color=7C3AED" width="48%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hariprakash0804&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=CBD5E1" width="37%" alt="Top languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=hariprakash0804&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=CBD5E1&ring_color=7C3AED" width="48%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hariprakash0804&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=CBD5E1" width="37%" alt="Top languages"/>
 
 <br/>
 
