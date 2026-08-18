@@ -23,12 +23,16 @@
       }
       .timeline-node {
         animation: node-pulse 2.5s ease-in-out infinite;
+        transform-box: fill-box;
+        transform-origin: center;
       }
       .timeline-node-d1 { animation-delay: 0.4s; }
       .timeline-node-d2 { animation-delay: 0.8s; }
       .timeline-node-d3 { animation-delay: 1.2s; }
       .timeline-ring {
         animation: ring-expand 2.5s ease-out infinite;
+        transform-box: fill-box;
+        transform-origin: center;
       }
       .timeline-ring-d1 { animation-delay: 0.4s; }
       .timeline-ring-d2 { animation-delay: 0.8s; }

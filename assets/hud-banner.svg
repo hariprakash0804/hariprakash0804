@@ -64,11 +64,13 @@
         animation: blink 1s step-end infinite;
       }
       .radar-ring {
-        transform-origin: 0 0;
+        transform-box: fill-box;
+        transform-origin: center;
         animation: radar-ping 2.5s ease-out infinite;
       }
       .radar-ring-delay {
-        transform-origin: 0 0;
+        transform-box: fill-box;
+        transform-origin: center;
         animation: radar-ping 2.5s ease-out infinite 1.2s;
       }
       .flicker-text {

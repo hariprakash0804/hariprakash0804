@@ -19,7 +19,8 @@
       }
       .center-diamond {
         animation: diamond-pulse 2s ease-in-out infinite;
-        transform-origin: 450px 20px;
+        transform-box: fill-box;
+        transform-origin: center;
       }
       .dot-left {
         animation: dot-glow 2s ease-in-out infinite;
