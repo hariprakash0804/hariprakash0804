@@ -1,12 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850"><style>
-* { font-family: 'Courier New', 'Ubuntu', monospace; }
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="850" viewBox="0 0 1280 850"><style>* { font-family: "Ubuntu", "Helvetica", "Arial", sans-serif; }
 .fill-fg { fill: #CBD5E1; }
-.stroke-fg { stroke: #00E5FF; }
+.stroke-fg { stroke: #CBD5E1; }
 .fill-bg { fill: #050816; }
-.stroke-bg { stroke: #1E293B; }
+.stroke-bg { stroke: #050816; }
 .fill-weak { fill: #64748B; }
-.stroke-weak { stroke: #1E293B; }
-.fill-strong { fill: #00E5FF; font-weight: bold; }
+.stroke-weak { stroke: #64748B; }
 .radar {
   stroke-width: 3px;
   stroke: #00E5FF;
