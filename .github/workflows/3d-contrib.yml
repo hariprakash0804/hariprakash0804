@@ -1,5 +1,4 @@
 name: GitHub-Profile-3D-Contrib
-
 on:
   schedule:
     - cron: "0 18 * * *"   # runs daily at 18:00 UTC (11:30 PM IST)
@@ -7,10 +6,8 @@ on:
   push:
     branches:
       - main
-
 permissions:
   contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,23 +15,28 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Write settings JSON to file
+        run: |
+          cat > settings.json << 'EOF'
+          {
+            "githubUserName": "hariprakash0804",
+            "type": "GitHubSVG",
+            "title": "Hariprakash A — Contribution Grid",
+            "topLangs": 5,
+            "utcOffset": "+05:30",
+            "locationInfo": {
+              "lat": 11.6643,
+              "lon": 78.1460
+            }
+          }
+          EOF
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: hariprakash0804
           MAX_REPOS: 10
-          SETTING_JSON: |
-            {
-              "githubUserName": "hariprakash0804",
-              "type": "GitHubSVG",
-              "title": "Hariprakash A — Contribution Grid",
-              "topLangs": 5,
-              "utcOffset": "+05:30",
-              "locationInfo": {
-                "lat": 11.6643,
-                "lon": 78.1460
-              }
-            }
+          SETTING_JSON: settings.json
 
       - name: Commit & push the generated SVGs
         run: |
