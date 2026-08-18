@@ -1,7 +1,7 @@
 name: Update Recent Activity
 on:
   schedule:
-    - cron: "*/30 * * * *"   # refreshes every 30 minutes
+    - cron: "0 */2 * * *"   # refreshes every 2 hours
   workflow_dispatch:          # allow manual trigger from Actions tab
 permissions:
   contents: write
@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Update README with recent activity
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: Readme-Workflows/recent-activity@v2.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
