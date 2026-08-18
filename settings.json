@@ -1,11 +1,14 @@
 {
-  "githubUserName": "hariprakash0804",
-  "type": "GitHubSVG",
-  "title": "Hariprakash A — Contribution Grid",
-  "topLangs": 5,
-  "utcOffset": "+05:30",
-  "locationInfo": {
-    "lat": 11.6643,
-    "lon": 78.1460
-  }
+  "backgroundColor": "#050816",
+  "foregroundColor": "#CBD5E1",
+  "strongColor": "#00E5FF",
+  "weakColor": "#64748B",
+  "radarColor": "#00E5FF",
+  "contribColors": [
+    "#161b22",
+    "#004d40",
+    "#00796b",
+    "#00b0ff",
+    "#00e5ff"
+  ]
 }

@@ -583,15 +583,15 @@ Browser game focused on clean JavaScript, DOM manipulation, state management and
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hariprakash0804&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=CBD5E1&ring_color=7C3AED" width="48%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprakash0804&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=CBD5E1" width="37%" alt="Top languages"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hariprakash0804&show_icons=true&include_all_commits=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=7C3AED&text_color=CBD5E1&ring_color=7C3AED" width="48%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hariprakash0804&layout=compact&langs_count=8&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=CBD5E1" width="37%" alt="Top languages"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=hariprakash0804&theme=dark&hide_border=true&background=050816&ring=7C3AED&fire=00E5FF&currStreakLabel=00E5FF&sideNums=FFFFFF&sideLabels=94A3B8&dates=64748B" width="72%" alt="GitHub streak"/>
 
 <a href="https://github.com/hariprakash0804">
-  <img src="https://raw.githubusercontent.com/hariprakash0804/hariprakash0804/main/profile-3d-contrib/profile-customize.svg" width="96%" alt="3D contribution graph"/>
+  <img src="./profile-3d-contrib/profile-customize.svg" width="96%" alt="3D contribution graph"/>
 </a>
 
 </div>
